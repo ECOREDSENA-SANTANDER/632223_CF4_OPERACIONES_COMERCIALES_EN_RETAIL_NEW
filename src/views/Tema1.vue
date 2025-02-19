@@ -209,7 +209,7 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Promociones económicas
-                  p.mb-4 Se refiere a todas aquellas promociones que tienen un premio económico como por ejemplo un #[b descuento, rebajas, ofertas, 2x1, productos gratis, cupones con descuento, etc.]
+                  p.mb-4 Se refiere a todas aquellas promociones que tienen un premio económico como por ejemplo un descuento, rebajas, ofertas, 2x1, productos gratis, cupones con descuento, etc.
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly2-4.png")
               .row.justify-content-center.align-items-center.p-4
@@ -229,25 +229,25 @@
             .row.col-xl-11.m-auto(titulo="Promoción de ventas")
               .row.justify-content-center.align-items-center
                 p Consiste en un grupo de estímulos que, principalmente, están diseñados a corto plazo y, por tanto, son herramientas diseñadas para provocar la compra rápida de determinados productos o servicios por parte de los clientes. Se refiere al conjunto de técnicas que son diferentes a la venta personal o a la publicidad que incitan a una acción de compra por parte de los clientes proporcionando un aumento en las ventas y una mayor eficacia en los canales de distribución.
-                p Los instrumentos de promoción de ventas varían según sean los objetivos específicos trazados por cada empresa. #[b Por ejemplo, una muestra gratis incita a probar el producto, mientras que un servicio gratis genera una sólida relación a largo plazo con el detallista.]
+                p Los instrumentos de promoción de ventas varían según sean los objetivos específicos trazados por cada empresa. Por ejemplo, una muestra gratis incita a probar el producto, mientras que un servicio gratis genera una sólida relación a largo plazo con el detallista.
                 p Las acciones en la promoción de ventas invitan a poder añadir un aliciente para el cliente con el fin de optimizar la percepción del producto de su parte. Para tener eficacia en la promoción de ventas hay que tener en cuenta lo siguiente:
                 ol.lista-ol--cuadro.lista-ol-.fa-ol
                   li 
                     .lista-ol--cuadro__vineta
                       span #[b a]
-                    span.mb-0 #[b Que sea conocida por el público.] Usar la publicidad para que el cliente se entere.
+                    span.mb-0 Que sea conocida por el público. Usar la publicidad para que el cliente se entere.
                   li 
                     .lista-ol--cuadro__vineta
                       span #[b b]
-                    span.mb-0 #[b Que sea comprendida.] Las promociones que son complejas no las va a entender el cliente y por tanto su funcionamiento no será eficaz.
+                    span.mb-0 Que sea comprendida. Las promociones que son complejas no las va a entender el cliente y por tanto su funcionamiento no será eficaz.
                   li 
                     .lista-ol--cuadro__vineta
                       span #[b c]
-                    span.mb-0 #[b Que incentive.] El cliente debe sentir atracción a la promoción, la cual debe influir en su decisión de compra.
+                    span.mb-0 Que incentive. El cliente debe sentir atracción a la promoción, la cual debe influir en su decisión de compra.
                   li 
                     .lista-ol--cuadro__vineta
                       span #[b d]
-                    span.mb-0 #[b Que sea alcanzable.] Las promociones de venta resultan más exitosas cuando el cliente cree en ellas y siente suficientes garantías para la obtención del resultado esperado.
+                    span.mb-0 Que sea alcanzable. Las promociones de venta resultan más exitosas cuando el cliente cree en ellas y siente suficientes garantías para la obtención del resultado esperado.
             .row.col-xl-11.m-auto(titulo="Promoción estratégica")
               .row.justify-content-center.align-items-center
                 p No busca necesariamente un aumento inmediato en las ventas, sino incentivar un comportamiento presente o futuro, como ofrecer un producto nuevo junto a uno conocido para que el cliente lo pruebe. También incluye campañas para motivar a empleados y personal de distribución, reducir el monto de crédito pactado con clientes, y promociones estratégicas para mejorar la imagen de la empresa (Zambrano, 2021).
@@ -274,7 +274,7 @@
               .col-lg-3.col-md-5.col-5
                 img.mt-3(src='@/assets/curso/temas/tema1/tar3-2.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
-                h4.mt-3 Identificación plena del #[em target]
+                h4.mt-3 Identificación plena del #[em target].
                 p Saber a quién se va a dirigir la promoción, porque de esta forma puede tener una respuesta más positiva por parte de este público.
   
       .row.mb-3
@@ -290,7 +290,7 @@
               .col-lg-3.col-md-5.col-5
                 img.mt-3(src='@/assets/curso/temas/tema1/tar3-4.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
-                h4.mt-3 Temporal
+                h4.mt-3 Temporal.
                 p Se debe pensar en qué fechas realizar las promociones, especialmente en los momentos en que la marca vende menos productos.
   
       .row.mb-5
@@ -299,15 +299,15 @@
               .col-lg-3.col-md-5.col-5
                 img.mt-5(src='@/assets/curso/temas/tema1/tar3-5.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
-                h4.mt-5 Mix promocional
+                h4.mt-5 #[em Mix] promocional.
                 p El plan promocional debe contener una diversidad de incentivos y estrategias que vayan impactando al cliente poco a poco.
           .col-md.tarjeta--boton.tema1.p-4.mx-2
             .row.align-items-center.justify-content-center
               .col-lg-3.col-md-5.col-5
                 img(src='@/assets/curso/temas/tema1/tar3-6.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
-                h4 Ser proactivo
-                p Estar al tanto de las tendencias, hacer benchmarking (analizar a la competencia), observar el comportamiento del mercado, analizar los hábitos de compra del consumidor, entre otros. La finalidad es aprovechar las oportunidades que existan en el camino.
+                h4 Ser proactivo.
+                p Estar al tanto de las tendencias, hacer #[em benchmarking] (analizar a la competencia), observar el comportamiento del mercado, analizar los hábitos de compra del consumidor, entre otros. La finalidad es aprovechar las oportunidades que existan en el camino.
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -391,11 +391,11 @@
           img(src='@/assets/curso/temas/tema1/img5.png', alt='')
   
       .row.mb-4
-        p Los eventos #[b pueden captar la atención del cliente de manera directa y duradera, creando una relación amena y confiable.] La experiencia significativa de un evento genera un recuerdo positivo más intenso y perdurable que otros medios de comunicación. Un evento es un acto en directo y único, que reúne al emisor y al receptor en el mismo lugar, dirigido a un público específico, diseñado a medida para crear respuestas y actitudes positivas en los clientes. #[b Es una herramienta de comunicación efectiva para visibilizar la marca y notificar experiencias a través de un acto en vivo.]
+        p Los eventos pueden captar la atención del cliente de manera directa y duradera, creando una relación amena y confiable. La experiencia significativa de un evento genera un recuerdo positivo más intenso y perdurable que otros medios de comunicación. Un evento es un acto en directo y único, que reúne al emisor y al receptor en el mismo lugar, dirigido a un público específico, diseñado a medida para crear respuestas y actitudes positivas en los clientes. Es una herramienta de comunicación efectiva para visibilizar la marca y notificar experiencias a través de un acto en vivo.
         p Para que el evento promocional sea exitoso, debe cumplir con los objetivos previstos: 
   
   
-      .row.mb-4(data-aos="fade-down")
+      .row.mb-4
         .col-lg-4.col-md-12.col-12
           .tarjeta-avatar
             img.mt-2(src='@/assets/curso/temas/tema1/tar4-1.png' alt='')
@@ -403,7 +403,7 @@
               .tarjeta--boton.tema1
                 .p-4
                   br
-                  p.mt-5.text-center #[b El mensaje debe llegar sin ninguna confusión.]
+                  p.mt-5.text-center El mensaje debe llegar sin ninguna confusión.
                   br
         .col-lg-4.col-md-12.col-12
           .tarjeta-avatar
@@ -412,7 +412,7 @@
               .tarjeta--boton.tema1
                 .p-4
                   br
-                  p.mt-5.text-center #[b Debe ser claro y entendible.]
+                  p.mt-5.text-center Debe ser claro y entendible.
                   br
                   br
         .col-lg-4.col-md-12.col-12
@@ -422,7 +422,7 @@
               .tarjeta--boton.tema1
                 .p-4
                   br
-                  p.mt-5.text-center #[b Y el medio para transmitirlo debe ser coherente con lo que se quiere informar y con la forma en que se va a comunicar.]
+                  p.mt-5.text-center Y el medio para transmitirlo debe ser coherente con lo que se quiere informar y con la forma en que se va a comunicar.
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.col-md-12.col-sm-12
@@ -452,7 +452,7 @@
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-1.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de #[em marketing], que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.Los tapones son el tipo de cierre por excelencia. Se encuentran en una amplia variedad de envases, como botellas, frascos, viales y tarros. Esta categoría es muy diversa y comprende numerosos tipos de cierres.
+              p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de #[em marketing], que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
         .py-3.py-md-4.px-3(titulo="Aniversarios de empresa")
           .row.justify-content-center
             .col-lg-3.col-md-5.col-5.mb-4
@@ -464,13 +464,13 @@
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-3.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de #[em internet], como #[em blogs] y sitios #[em web]. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
+              p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de internet, como #[em blogs] y sitios web. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
         .py-3.py-md-4.px-3(titulo="Lanzamiento de productos")
           .row.justify-content-center
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-4.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Evento que debe tener en cuenta la selección del sitio correcto para desarrollarlo. Y para ello también se debe tener en cuenta la audiencia target. Pensar si el evento lo pueden disfrutar más en persona o a través de una experiencia #[em online]. Estos detalles son vitales porque elegir el lugar perfecto para lanzar el producto es un elemento crítico que puede ser clave del éxito comercial. Un evento en vivo debe tener un lugar maravilloso que la gente se sienta atraída por asistir, lo cual ayudará a aumentar las ventas y a generar nuevo engagement por parte de los clientes. También se debe decidir cuánta gente se desea que asista, no necesariamente se requiere de muchos invitados, a veces una experiencia íntima puede impactar tanto como un evento masivo.
+              p Para planificar un evento de lanzamiento, es crucial seleccionar el sitio adecuado para su desarrollo. Para ello, se debe considerar la audiencia objetivo y evaluar si disfrutarán más del evento en persona o mediante una experiencia #[em online]. Estos detalles son vitales, ya que elegir el lugar perfecto para el lanzamiento del producto puede ser un factor determinante para el éxito comercial. Un evento en vivo debe celebrarse en un lugar atractivo, que motive a la gente a asistir, lo cual contribuirá a aumentar las ventas y a generar nuevo engagement por parte de los clientes. También es importante decidir la cantidad de asistentes deseada; no siempre se necesita una gran multitud, ya que una experiencia íntima puede tener tanto impacto como un evento masivo.
   
       .row.mb-4
         .col-12
