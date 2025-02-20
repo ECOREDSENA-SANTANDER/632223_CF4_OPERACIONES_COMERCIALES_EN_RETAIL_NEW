@@ -17,7 +17,7 @@
             .tarjeta.tarjeta--azul
               .p-3
                 .row.align-items-center.justify-content-center
-                  .col-1
+                  .col-2
                     h1.mt-4.textonaranja A.
                   .col-10
                     p.mt-4 Persuadir, influenciar, motivar al cliente a una acción de compra. 
@@ -28,7 +28,7 @@
             .tarjeta.tarjeta--azul
               .p-3
                 .row.align-items-center.justify-content-center
-                  .col-1
+                  .col-2
                     h1.mt-4.textonaranja B.
                   .col-10
                     p.mt-3 Informar. Esto incluye detalles sobre características, beneficios, precios, promociones y puntos de venta.

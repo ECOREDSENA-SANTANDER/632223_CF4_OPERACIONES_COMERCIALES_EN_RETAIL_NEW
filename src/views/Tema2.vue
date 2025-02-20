@@ -322,7 +322,7 @@
             .tarjeta.tarjeta--azul
               .p-3
                 .row.align-items-center.justify-content-center.mt-2
-                  .col-1
+                  .col-2
                     h1.mt-4.textoazul A.
                   .col-10
                     p.mt-4 Estrategias comerciales #[em online].
@@ -333,7 +333,7 @@
             .tarjeta.tarjeta--azul
               .p-3
                 .row.align-items-center.justify-content-center.mt-2
-                  .col-1
+                  .col-2
                     h1.mt-4.textoazul B.
                   .col-10
                     p.mt-3 Estrategias comerciales #[em offline].

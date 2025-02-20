@@ -61,7 +61,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: 'El <i>stand</i>',
+            titulo: 'El stand',
             hash: 't_1_5',
           },
         ],
@@ -238,10 +238,6 @@ export default {
         'pruebas que se le regalan a los clientes dentro de un establecimiento de uno o varios productos para que lo(s) conozcan, lo(s) experimenten en carne propia y luego puedan tomar una decisión de compra.',
     },
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
-    },
-    {
       termino: 'Demostración',
       significado:
         'forma en que se promociona un producto, poniéndolo a prueba con los clientes dentro de un establecimiento para que puedan percibir su funcionamiento.',
@@ -287,7 +283,7 @@ export default {
         'acciones publicitarias y de mercadeo que incentivan a los clientes a tomar una decisión de compra en corto plazo, a través de técnicas promocionales como rebajas en el precio de un producto o servicio, descuentos, ofertas, cupones o el tradicional 2x1, entre otras.',
     },
     {
-      termino: '<i>Stand</i>',
+      termino: 'Stand',
       significado:
         'mueble que ocupa un espacio, principalmente en el interior de una exposición o una feria, en la que una marca puede exponer los productos y servicios.',
     },

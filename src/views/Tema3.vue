@@ -122,7 +122,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-4.png', alt='')
             .row.align-items-center.justify-content-center(numero="5" titulo= "<i>Chatbot</i>")
               .col-md-10.col-lg-7.col-sm-12
-                p Herramienta de #[em software] que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
+                p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
               .col-md-2.col-lg-4.col-4
                 img(src='@/assets/curso/temas/tema3/ps1-5.png', alt='')
             .row.align-items-center.justify-content-center(numero="6" titulo= "WhatsApp")
@@ -235,7 +235,7 @@
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Revistas
                   p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc). 
-                  p Tienen mayor calidad tanto en impresión (usa tintas CMYK – cian, magenta, #[em yellow y black]) como en el papel (propalcote), por lo que son más costosas para los lectores y también para los anunciantes.  
+                  p Tienen mayor calidad tanto en impresión (usa tintas CMYK – cian, magenta, y #[em black]) como en el papel (propalcote), por lo que son más costosas para los lectores y también para los anunciantes.  
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema3/sly1-2.png")
               .row.justify-content-center.align-items-center.p-4
@@ -253,7 +253,7 @@
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
           p Es una herramienta muy efectiva de #[em Branding], que en la actualidad puede ser usada de manera estratégica en las tiendas #[em online] o #[em e-commerce]. Estrategia tradicional de #[em marketing] que también es llamada #[em Sampling] y que radica en el envío de una muestra de productos de manera gratuita y con un claro objetivo promocional (Florido, 2021).
-          p La muestra gratis se envía al lugar de ubicación donde se encuentra, bien sea el cliente real y habitual, o el cliente potencial. Cuando se trata del cliente real y habitual, lo que se busca primordialmente es fidelizarlo para que él termine referenciando el producto a sus contactos, es decir, lo que se intenta hacer es incentivar el tradicional “voz a voz”, que en realidad es la mejor promoción que una marca puede tener, porque los clientes confían más en las sugerencias de alguien conocido que en la misma publicidad. Y  Cuando se trata de un cliente potencial, lo que se busca es que lo conozca para que más adelante termine comprándolo.
+          p La muestra gratis se envía al lugar de ubicación donde se encuentra, bien sea el cliente real y habitual, o el cliente potencial. Cuando se trata del cliente real y habitual, lo que se busca primordialmente es fidelizarlo para que él termine referenciando el producto a sus contactos, es decir, lo que se intenta hacer es incentivar el tradicional “voz a voz”, que en realidad es la mejor promoción que una marca puede tener, porque los clientes confían más en las sugerencias de alguien conocido que en la misma publicidad. Cuando se trata de un cliente potencial, lo que se busca es que lo conozca para que más adelante termine comprándolo.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema3/sly1-4.png', alt='')
   
@@ -317,7 +317,7 @@
                     .row.mt-5.mb-3
                     .col-lg-6.mt-5.bgblanco
                       h4.mt-2.ps-2 Plantillas gratuitas Wordpress y Wix
-                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios #[em web] y #[em blogs], llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc.). El cliente puede elegir una plantilla para su sitio #[em web], probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio #[em web] o #[em blog].
+                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios web y #[em blogs], llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc). El cliente puede elegir una plantilla para su sitio web, probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio web o #[em blog].
             .row.mt-5
   
       p.mb-4.mt-4 La estrategia consiste entonces en que las empresas entreguen muestras gratis de sus productos con la finalidad de fidelizar los clientes reales y habituales o de alcanzar clientes potenciales que se interesen por lo que la empresa ofrece. Cuando el cliente prueba un producto, sea cual sea, tiene más posibilidades de terminar comprándolo, siempre y cuando le haya gustado.
@@ -338,7 +338,7 @@
               span.mb-0 Ofrecerlo como regalo por la compra de otro artículo.
             li 
               i.fas.fa-check-circle
-              span.mb-0 Enviando muestras gratuitas a domicilio; los gastos de envío son pagados por la marca. En este caso se puede hacer de dos formas; cuando la marca elige los clientes reales y habituales para enviarles la muestra gratis; y cuando la empresa da la oportunidad (por ejemplo, en #[em internet]) de que los clientes potenciales soliciten la muestra gratuita.
+              span.mb-0 Enviando muestras gratuitas a domicilio; los gastos de envío son pagados por la marca. En este caso se puede hacer de dos formas; cuando la marca elige los clientes reales y habituales para enviarles la muestra gratis; y cuando la empresa da la oportunidad (por ejemplo, en internet) de que los clientes potenciales soliciten la muestra gratuita.
             li 
               i.fas.fa-check-circle
               span.mb-0 Ofrecer la muestra gratuita en ferias comerciales (Florido, 2021). 
@@ -498,7 +498,7 @@
                 .tarjeta.white-card.p-4
                   .row.align-items-center.justify-content-center
                     .col-lg-6
-                      .h4 #[em Brochure]
+                      .h4 Brochure
                       p Pieza publicitaria que tiene forma de folleto o documento gráfico e informativo que exhibe información relevante sobre la marca que es de valor para los clientes. Desde la teoría, un brochure empresarial incluye materiales publicitarios como afiches, trípticos (plegables de tres cuerpos) y carpetas, entre otros. Estas piezas se pueden crear para uso interno o externo de la marca, es decir, pueden ir dirigidos a los empleados, así como también, puede ser diseñados para informar a los clientes. Esta pieza puede ser diseñada de manera digital para ser compartida con su público a través del correo electrónico, redes sociales e incluso el WhatsApp.
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema3/pc1-10.png', alt='')
@@ -597,7 +597,7 @@
                 .tarjeta.white-card.p-4
                   .row.align-items-center.justify-content-center
                     .col-lg-6
-                      .h4 #[em Banner] o pendón
+                      .h4 Banner o pendón
                       p Pieza publicitaria decorativa colgante que sirve para destacar una categoría, marca o producto y que está situada en el punto de venta. Generalmente son de gran formato y pueden colgar del techo, de la pared, entre columnas o postes o incluso puede tener una estructura autosostenible. Sus funciones son las de magnificar el producto o marca, orientar al cliente, destacar el distintivo visual y ser usado en eventos o fechas especiales como activación de marca, lanzamiento de nuevos productos o promociones especiales.
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema3/pc1-21.png', alt='')
@@ -647,7 +647,7 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
-          p.mb-5 Herramientas como el #[em Customer Journey], el #[em Buyer] Persona, diagnósticos de madurez y nuevas tecnologías facilitan la ejecución a lo largo de la cadena de valor del cliente. El diagnóstico de madurez evalúa y mejora la aplicación práctica de estrategias, llevando a una mayor calidad en el desarrollo de #[em software].
+          p.mb-5 Herramientas como el #[em Customer Journey], el #[em Buyer] Persona, diagnósticos de madurez y nuevas tecnologías facilitan la ejecución a lo largo de la cadena de valor del cliente. El diagnóstico de madurez evalúa y mejora la aplicación práctica de estrategias, llevando a una mayor calidad en el desarrollo de software.
           .mb-4.d-flex.ps-lg-0
             .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
               h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") De la multicanalidad a la omnicanalidad
@@ -660,13 +660,13 @@
       .row.justify-content-center(data-aos="zoom-in-left").mb-5
         .col-sm-12.col-md-12.col-lg-10
           .titulo-sexto.color-acento-contenido
-            h5 Figura 4. 
+            h5 Figura 5. 
             | Multicanalidad a omnicanalidad 
           figure
             img(src='@/assets/curso/temas/tema3/fig4.png', alt='La figura 4 describe la transición de la multicanalidad a la omnicanalidad en la atención al cliente. En la multicanalidad, el cliente puede interactuar con la empresa a través de diversos canales (redes sociales, tienda, correo, sitio web, teléfono), pero de forma independiente. En contraste, la omnicanalidad integra todos estos canales, permitiendo una experiencia unificada y coherente, donde la información del cliente se comparte entre los diferentes puntos de contacto, mejorando la satisfacción y eficiencia en la comunicación.')
-            figcaption Nota. Tomada de Zendesk (s.f).
+            figcaption.mt-2 Nota. Tomada de Zendesk (s.f).
   
-      p.mb-4 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del Customer Journey, entregando consistencia entre #[b los canales usados en cada uno de los diferentes “momentos de la verdad”] (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario online o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. #[b Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca] sea coherente entre ellos. 
+      p.mb-4 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del #[em Customer Journey], entregando consistencia entre los canales usados en cada uno de los diferentes “momentos de la verdad” (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario online o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca sea coherente entre ellos. 
       
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
@@ -700,7 +700,7 @@
                 img(src='@/assets/curso/temas/tema3/tab1-3.png', alt='')
               .col-lg-7.col-md-12.col-sm-12
                 h4 Oportunidad y propuestas de valor. 
-                p El aporte de valor al cliente en cada uno de los puntos de contacto debe pasar la incorporación de los datos analíticos a cada una de las etapas del Customer Journey, para así poder entregar el mensaje apropiado y pertinente. Si los canales se conectan correctamente, cada uno de los puntos de contacto con el cliente serán una oportunidad para conseguir nueva información de valor y para suministrar un mensaje que sea de interés para él.
+                p El aporte de valor al cliente en cada uno de los puntos de contacto debe pasar la incorporación de los datos analíticos a cada una de las etapas del #[em Customer Journey], para así poder entregar el mensaje apropiado y pertinente. Si los canales se conectan correctamente, cada uno de los puntos de contacto con el cliente serán una oportunidad para conseguir nueva información de valor y para suministrar un mensaje que sea de interés para él.
   
       p.mb-5 Para concluir, las empresas pueden dirigir su estrategia en la búsqueda de la integración y unión entre todos los canales de la marca, de manera que se interconectan de forma instantánea y natural entre sí. Es vital tener claro que el presente y el futuro están en la integración de los canales físicos y digitales.
   
