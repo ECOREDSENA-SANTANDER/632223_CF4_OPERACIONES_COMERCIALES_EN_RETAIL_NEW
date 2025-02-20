@@ -529,11 +529,11 @@
   
       separador
       #t_1_5.titulo-segundo.mb-4
-        h2 1.5 El #[em stand]
+        h2 1.5 El stand
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-6.col-md-12.col-sm-12
-          p La participación por parte de la empresa en eventos y congresos es rentable a la hora de enlazar con otros profesionales, #[b destacarse sobre la competencia e incluso captar clientes nuevos.] Y en ese sentido es muy importante conocer qué tipos de estanterías hay en el mercado para elegir la que mejor se acomode a la empresa. 
+          p La participación por parte de la empresa en eventos y congresos es rentable a la hora de enlazar con otros profesionales, destacarse sobre la competencia e incluso captar clientes nuevos. Y en ese sentido es muy importante conocer qué tipos de estanterías hay en el mercado para elegir la que mejor se acomode a la empresa. 
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema1/img7.png', alt='')
   
@@ -541,7 +541,7 @@
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de stand
           img.icon(src='@/assets/curso/temas/icon.svg') 
-      p.mb-4 Lo positivo de los stands es que su #[b diseño puede ser tan versátil como la creatividad de los diseñadores.] A continuación, se presentan los tipos de stands:
+      p.mb-4 Lo positivo de los stands es que su diseño puede ser tan versátil como la creatividad de los diseñadores. A continuación, se presentan los tipos de stands:
   
       .row.fondo1.align-items-center.p-3(data-aos="fade-down").mb-4
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -557,20 +557,20 @@
                   img(src="@/assets/curso/temas/tema1/sly3-1.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 #[em Stand custom]
-                  p.mb-4 Se fabrican en madera o materiales flexibles, permiten una total personalización porque permiten un diseño libre. Cuando se trata de mejorar un valor diferenciador y llamar la atención de los clientes se recomienda este tipo de stand. Es más costoso porque no es modular y porque posee una mayor envergadura, pero, por otro lado, permite diseñar diferentes ambientes, zonas de trabajo, de reunión o de entrega de información en el mismo stand. 
+                  h4.mb-4 Stand #[em custom]
+                  p.mb-4 Se fabrican en madera o materiales flexibles, permiten una total personalización porque tienen un diseño libre. Cuando se trata de mejorar un valor diferenciador y llamar la atención de los clientes se recomienda este tipo de stand. Es más costoso porque no es modular y porque posee una mayor envergadura, pero, por otro lado, permite diseñar diferentes ambientes, zonas de trabajo, de reunión o de entrega de información en el mismo stand. 
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-2.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 #[em Stand] portátil
+                  h4.mb-4 Stand portátil
                   p.mb-4 Son más rápidos de armar y transportar. Disponen de un soporte gráfico que tiene la imagen de la marca. A nivel comunicativo, sus funciones son más reducidas, pero por eso mismo no se necesitará de un presupuesto elevado. 
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-3.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 #[em Stand] creativo o temático
-                  p.mb-4 Se trata de los stands más evolucionados y demandan de mano de obra experta, porque su diseño y montaje necesita de mayor precisión que, por ejemplo, es stand con sistema modular. Según sea el tema o el contexto de la marca, se puede crear un diseño versátil y llamativo como por ejemplo diseñar una especie de bodega para promocionar un vino. Admite plasmar cualquier idea, pero su costo es superior. 
+                  h4.mb-4 Stand creativo o temático
+                  p.mb-4 Se trata de los stands más evolucionados y demandan de mano de obra experta, porque su diseño y montaje necesita de mayor precisión, si se compara con un stand con sistema modular. Según sea el tema de evento o el contexto de la marca, se puede crear un diseño versátil y llamativo, como puede ser el diseño de una bodega o cava,  para promocionar vinos. Se debe tener en cuenta que su costo es superior.
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-4.png")
   

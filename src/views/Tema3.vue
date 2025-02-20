@@ -82,7 +82,7 @@
                 .col-lg-1.col-md-2.col-4
                   img(src='@/assets/curso/temas/tema3/ico3.png', alt='')
                 .col-lg-10.col-md-12.col-sm-12
-                  p La tercera etapa se enfoca en identificar el público objetivo al que va dirigida la comunicación . Además, en esta fase se establecen la estrategia del mensaje (qué y cómo se desea comunicar) y la estrategia de medios (qué canales se emplearán).
+                  p La tercera etapa se enfoca en identificar el público objetivo al que va dirigida la comunicación. Además, en esta fase se establecen la estrategia del mensaje (qué y cómo se desea comunicar) y la estrategia de medios (qué canales se emplearán).
               .row.justify-content-center.align-items-center.mb-4
                 .col-lg-1.col-md-2.col-4
                   img(src='@/assets/curso/temas/tema3/ico4.png', alt='')
@@ -127,7 +127,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-5.png', alt='')
             .row.align-items-center.justify-content-center(numero="6" titulo= "WhatsApp")
               .col-md-10.col-lg-7.col-sm-12 
-                p Herramienta que posee un gran potencial para que las empresas tengan una comunicación directa con los clientes. Es una aplicación que brinda una funcionalidad importante para las empresas (WhatsApp Business) para que estas puedan tener un contacto más ágil con sus clientes a través de un chatbot que permite a la marca responder de manera instantánea a una gran cantidad de contactos diariamente. Este #[em chatbot] es muy útil para empresas que reciben masivamente contactos en el día, además de que puede direccionar las consultas a cada área a través de él. 
+                p Herramienta que posee un gran potencial para que las empresas tengan una comunicación directa con los clientes. Es una aplicación que brinda una funcionalidad importante para las empresas (WhatsApp Business) para que estas puedan tener un contacto más ágil con sus clientes a través de un #[em chatbot] que permite a la marca responder de manera instantánea a una gran cantidad de contactos diariamente. Este #[em chatbot] es muy útil para empresas que reciben masivamente contactos en el día, además de que puede direccionar las consultas a cada área a través de él. 
               .col-md-2.col-lg-4.col-4
                 img(src='@/assets/curso/temas/tema3/ps1-6.png', alt='')
   
@@ -140,14 +140,14 @@
           img(src='@/assets/curso/temas/tema3/img3.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           p Profesional cuya función principal es proporcionar información completa y detallada a clientes potenciales con el objetivo de facilitar una  decisión de compra. Entre otras responsabilidades, este profesional debe conocer los mercados, productos y servicios, así como realizar un seguimiento continuo de los clientes o. posibles compradores (Wetto, 2017).
-          p El asesor comercial, en general, es un vendedor, pero no se limita a realizar una venta. Su objetivo es obtener de los clientes la información necesaria para ofrecerles el producto que mejor se ajuste a sus necesidades. En este sentido, brindan atención antes, durante y después de la compra. Desempeñan un rol de doble vía: además de asesorar y proporcionar información útil a los clientes, recopilan datos importantes que la empresa puede utilizar para mejorar en todos los aspectos, desde productos y servicios hasta estrategias comerciales, branding y mercado objetivo.
+          p El asesor comercial, en general, es un vendedor, pero no se limita a realizar una venta. Su objetivo es obtener de los clientes la información necesaria para ofrecerles el producto que mejor se ajuste a sus necesidades. En este sentido, brindan atención antes, durante y después de la compra. Desempeñan un rol de doble vía: además de asesorar y proporcionar información útil a los clientes, recopilan datos importantes que la empresa puede utilizar para mejorar en todos los aspectos, desde productos y servicios hasta estrategias comerciales, #[em branding] y mercado objetivo.
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Funciones del asesor comercial
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p.mb-4 El asesor comercial cuenta con muchos elementos y herramientas para el logro de su objetivo, la venta, por lo cual es necesario conocer las funciones inherentes a su cargo, las cuales se exponen a continuación :
+      p.mb-4 El asesor comercial cuenta con muchos elementos y herramientas para el logro de su objetivo, la venta, por lo cual es necesario conocer las funciones inherentes a su cargo, las cuales se exponen a continuación:
   
       .row
         .col-sm-12.col-md-12.col-lg-12
@@ -228,13 +228,13 @@
                   h4.mb-4 Periódicos
                   p Usa la comunicación escrita y visual. Simboliza una oportunidad seductora para los anunciantes con presencia en mercados locales, departamentales o nacionales.
                   p Es el medio  de comunicación masivo que posee mayor credibilidad, porque la noticia tiene tiempo de ser revisada y estudiada antes de ser llevada a impresión. 
-                  p Son económicos para el consumidor, pero no lo son para los anunciantes. En general, todos los medios de comunicación masiva son costosos publicitariamente hablando. Además, el papel periódico no es de excelente calidad, por lo que el proceso de impresión se debe realizar en tintas RGB (#[em Red , Green y Blue]).  
+                  p Son económicos para el consumidor, pero no lo son para los anunciantes. En general, todos los medios de comunicación masiva son costosos publicitariamente hablando. Además, el papel periódico no es de excelente calidad, por lo que el proceso de impresión se debe realizar en tintas RGB (#[em Red, Green y Blue]).  
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema3/sly1-1.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Revistas
-                  p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc.). 
+                  p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc). 
                   p Tienen mayor calidad tanto en impresión (usa tintas CMYK – cian, magenta, #[em yellow y black]) como en el papel (propalcote), por lo que son más costosas para los lectores y también para los anunciantes.  
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema3/sly1-2.png")

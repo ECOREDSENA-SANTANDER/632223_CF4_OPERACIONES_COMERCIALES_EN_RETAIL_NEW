@@ -20,19 +20,29 @@
         .col-sm-12.col-md-12.col-lg-10
           .titulo-sexto.color-acento-contenido
             h5 Figura 1. 
-            | Trazabilidad
+            | Productos y servicios
           figure
             img(src='@/assets/curso/temas/tema2/fig1.png', alt='La imagen expone un diagrama que clasifica los bienes en productos y servicios. Los productos son tangibles y los servicios son intangibles. Ambos están incluidos en el término general "bienes". El diagrama destaca la diferencia entre la naturaleza de los productos y servicios (tangibilidad versus intangibilidad) y su funcionamiento (intangible para productos y tangible para servicios). ')
       
       .row
         p Por ejemplo, cuando se compra una pastilla para el dolor muscular, se busca en la farmacia más cercana y a la hora de hacer la compra se requiere de un servicio de atención, facturación y servicio de entrega del producto. 
-        p Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, inmobiliario y equipamiento. 
+            
+      .row
+       .cajon.color-primario.p-4
+          p Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, inmobiliario y equipamiento. 
   
       separador
       #t_2_1.titulo-segundo.mb-5
         h2 2.1 Portafolio de productos
+      p.mb-5 También conocido con el nombre de gama de productos. Es un conjunto de productos muy relacionados entre sí por sus funciones y servicios; se diferencian por sus características, tamaños, colores , olores, entre otros. Se refiere al total de artículos que una marca ofrece al consumidor para que tenga opciones de escoger.
+
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Características de la gama de productos
+          img.icon(src='@/assets/curso/temas/icon.svg') 
+
       p Este tema está relacionado con las dimensiones del surtido, discutidas en el módulo anterior. En esta sección, profundizaremos en el concepto y en la gama de productos que se define mediante las siguientes variables:
-  
+
       .row.fondo2.align-items-center(data-aos="fade-down").mb-5
   
             SlyderF(columnas="col-lg-12 col-md-12 col-12")
@@ -116,7 +126,7 @@
       separador
       #t_2_2.titulo-segundo.mb-5
         h2 2.2 Los servicios como valor agregado
-      p.mb-4 El sector servicios va logrando más importancia día a día. Las marcas de países desarrollados invierten más del 50% de sus presupuestos en servicios para alcanzar una ventaja competitiva. Y este incremento de los servicios con valor corresponde a la exigencia de los clientes en la actualidad. Las marcas grandes han optado entonces por especializarse en el servicio continuo de atención al consumidor. Por ejemplo, la marca IBM declara ser una empresa de servicios y no de computadoras, como lo afirma Chávez, (2016).
+      p.mb-4 El sector servicios va logrando más importancia día a día. Las marcas de países desarrollados invierten más del 50 % de sus presupuestos en servicios para alcanzar una ventaja competitiva. Y este incremento de los servicios con valor corresponde a la exigencia de los clientes en la actualidad. Las marcas grandes han optado entonces por especializarse en el servicio continuo de atención al consumidor. Por ejemplo, la marca IBM declara ser una empresa de servicios y no de computadoras, como lo afirma Chávez, (2016).
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -127,7 +137,6 @@
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img2.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
-          p Dentro del grupo de artículos que ofrece la marca, existen productos que poseen específicas características, las cuales permiten diseñar estrategias de ventas; estos productos se denominan:
           .bgazulclaro.borde-redondo.p-4
             SlyderF(columnas="col-lg-12 col-md-12 col-12")
               .tarjeta.tarjeta--slyder.p-3
@@ -143,21 +152,21 @@
                     img(src='@/assets/curso/temas/tema2/sly2-2.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Mixtos.
-                    p.mb-4 Es cuando el producto necesita del componente de servicio, sin importar si es en un grado mayor o menor. Como ejemplo se pueden citar los restaurantes, porque el producto va a variar de precio de acuerdo con la calidad de los servicios y atención prestada (música de fondo o en vivo, espacios amplios y cómodos, zonas de juegos para los niños, entre otros.
+                    p.mb-4 Es cuando el producto necesita del componente de servicio, sin importar si es en un grado mayor o menor. Como ejemplo se pueden citar los restaurantes, porque el producto va a variar de precio de acuerdo con la calidad de los servicios y atención prestada (música de fondo o en vivo, espacios amplios y cómodos, zonas de juegos para los niños, entre otros).
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     img(src='@/assets/curso/temas/tema2/sly2-3.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Servicios de apoyo.
-                    p.mb-4 Son servicios adicionales que ayudan a vender un producto al proporcionar apoyo extra, como el servicio  de entrega a domicilio, atención clara, oportuna, entre otros. Estos servicios están diseñados para motivar al cliente a realizar una compra. Por ejemplo, en la venta de camionetas 4x4, se puede ofrecer a los clientes y sus familias pases de cortesía para asistir a un evento durante el fin de semana, permitiéndoles experimentar el vehículo en un entorno real.
+                    p.mb-4 Son servicios adicionales que ayudan a vender un producto al proporcionar apoyo extra, como el servicio  de entrega a domicilio, atención clara, oportuna, entre otros. Estos servicios están diseñados para motivar al cliente a realizar una compra. Por ejemplo, en la venta de camionetas 4 x 4, se puede ofrecer a los clientes y sus familias pases de cortesía para asistir a un evento durante el fin de semana, permitiéndoles experimentar el vehículo en un entorno real.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     img(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Servicio de entrega.
-                    p.mb-4 El cliente del siglo XXI quiere hacer el mínimo esfuerzo en la compra de un artículo. Este apartado se refiere a tener un excelente servicio de entrega y manejo de mercancías, con el apoyo de pedidos vía teléfono, fax, correo electrónico y WhatsApp. Así mismo, se deben dar facilidades para su adquisición, pues esto, es vital en el momento de comprar productos .
+                    p.mb-4 El cliente del siglo XXI quiere hacer el mínimo esfuerzo en la compra de un artículo. Este apartado se refiere a tener un excelente servicio de entrega y manejo de mercancías, con el apoyo de pedidos vía teléfono, fax, correo electrónico y WhatsApp. Así mismo, se deben dar facilidades para su adquisición, pues esto, es vital en el momento de comprar productos.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
@@ -179,13 +188,13 @@
                 .col-lg-4.col-md-6.col-6
                   img(src='@/assets/curso/temas/tema2/tab1-1.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
-                  p Los servicios no pueden ser vistos, probados, sentidos, olfateados o escuchados . En el sector de servicios, se promocionan experiencias intangibles. Por ejemplo, el servicio de un seguro médico es intangible, no se toca, pero se tiene la seguridad que cuenta con médicos cuando se requieran.
+                  p Los servicios no pueden ser vistos, probados, sentidos, olfateados o escuchados. En el sector de servicios, se promocionan experiencias intangibles. Por ejemplo, el servicio de un seguro médico es intangible, no se toca, pero se tiene la seguridad que cuenta con médicos cuando se requieran.
             .tarjeta.bgrosado.p-4(titulo="Carácter indisociable del servicio")
               .row.justify-content-center.align-items-center
                 .col-lg-4.col-md-6.col-6
                   img(src='@/assets/curso/temas/tema2/tab1-2.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
-                  p Es cuando los servicios se producen y se consumen al mismo tiempo y no se pueden separar de sus proveedores , ya sean estos, personas, máquinas o instalaciones. Por ejemplo, un restaurante vende comida, que es un producto, pero sustancialmente es un servicio y en este caso solo se hace tangible cuando se consume.
+                  p Es cuando los servicios se producen y se consumen al mismo tiempo y no se pueden separar de sus proveedores, ya sean estos, personas, máquinas o instalaciones. Por ejemplo, un restaurante vende comida, que es un producto, pero sustancialmente es un servicio y en este caso solo se hace tangible cuando se consume.
             .tarjeta.bgrosado.p-4(titulo="Carácter  perecedero del servicio")
               .row.justify-content-center.align-items-center
                 .col-lg-4.col-md-6.col-6
@@ -214,7 +223,7 @@
       .row.justify-content-center.align-items-end.mb-5
         .col-lg-8.col-md-12.col-sm-12
           p La estrategia comercial se puede definir como el grupo de acciones que una empresa puede poner en práctica con el fin de dar a conocer un producto nuevo, para aumentar su participación de mercado. Esta  se plasma en una “hoja de ruta”, un plan diseñado de manera personalizada según el contexto y necesidades de cada empresa, de acuerdo con sus características y filosofía empresarial (objetivos, principios, misión, visión y valores).
-          p En una estrategia comercial de ventas se unen un conjunto de acciones racionales y elegidas dentro de la compañía . Se deben centrar en el cliente y sus acciones tienen como fin poder posicionar la marca en el mercado. Va mucho más allá del aumento en las ventas ya que su dirección apunta a la perduración de la marca y sus ventas en el tiempo, garantizando de esta manera su existencia.
+          p En una estrategia comercial de ventas se unen un conjunto de acciones racionales y elegidas dentro de la compañía. Se deben centrar en el cliente y sus acciones tienen como fin poder posicionar la marca en el mercado. Va mucho más allá del aumento en las ventas ya que su dirección apunta a la perduración de la marca y sus ventas en el tiempo, garantizando de esta manera su existencia.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img4.png', alt='')
   
@@ -278,7 +287,7 @@
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
           .cajon.color-acento-botones.p-4.mb-4
-            p La estrategia comercial le da prioridad al cierre del proceso de ventas con los clientes ya conocidos. Además de incluir #[b acciones que se dirigen a los clientes de la competencia y, en menor grado, a captar clientes que aún no conocen la marca.] Hay varios criterios que sirven para lograr la clasificación de los tipos de estrategia comercial. Son criterios que se operan de manera cotidiana en el ámbito empresarial. 
+            p La estrategia comercial le da prioridad al cierre del proceso de ventas con los clientes ya conocidos. Además de incluir acciones que se dirigen a los clientes de la competencia y, en menor grado, a captar clientes que aún no conocen la marca. Hay varios criterios que sirven para lograr la clasificación de los tipos de estrategia comercial. Son criterios que se operan de manera cotidiana en el ámbito empresarial. 
       
       p.mb-4 Hay un criterio tradicional que divide la estrategia comercial en dos tipos esenciales:
   
@@ -331,7 +340,7 @@
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.col-md-12.col-sm-12
-          p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, #[em blog], sitio #[em web], etc.), son vitales para las empresas contemporáneas. 
+          p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, #[em blog], sitio web, etc.), son vitales para las empresas contemporáneas. 
           p Por su lado, la estrategia comercial #[em offline] completa todas las acciones tradicionales de ventas desarrolladas a lo largo de la historia. Utiliza canales distintos a internet, pero eso no quiere decir que sean incompatibles.
           p Son muchas las marcas que de manera exitosa unen ambos tipos de estrategia (#[em online] y #[em offline]), dando como resultado una decisión inteligente porque de esta manera se logra el diseño de una estrategia omnicanal que en la actualidad es de amplia aceptación.  A continuación, se expondrán los siguientes pasos para el desarrollo de una estrategia comercial efectiva.      
         .col-lg-4.col-md-6.col-6
@@ -347,7 +356,7 @@
                   img(src='@/assets/curso/temas/tema2/ps1-1.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Elaborar la matriz DOFA
-                  p Para la ejecución de este paso se debe tener el brief empresarial, especialmente conocer el contexto y la filosofía de la empresa, o sea, la visión, misión y valores declarados por la misma.
+                  p Para la ejecución de este paso se debe tener el #[em brief] empresarial, especialmente conocer el contexto y la filosofía de la empresa, o sea, la visión, misión y valores declarados por la misma.
               .row.justify-content-center.align-items-center(titulo="Paso 2")
                 .col-md-3
                   img(src='@/assets/curso/temas/tema2/ps1-2.png', alt='Texto que describa la imagen')
@@ -372,7 +381,7 @@
                   img(src='@/assets/curso/temas/tema2/ps1-5.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Utilizar la información del embudo de ventas para diseñar las acciones de la estrategia comercial
-                  p Las acciones deben diseñarse de manera personalizada y para tener información sobre los hábitos y el comportamiento del cliente, el embudo es primordial para obtener estos datos. (#[b Embudo de ventas]: describe el proceso de conversión de prospectos a clientes, incluyendo métricas clave como tasas de conversión y tiempo en cada etapa.)
+                  p Las acciones deben diseñarse de manera personalizada y para tener información sobre los hábitos y el comportamiento del cliente, el embudo es primordial para obtener estos datos. (Embudo de ventas: describe el proceso de conversión de prospectos a clientes, incluyendo métricas clave como tasas de conversión y tiempo en cada etapa.)
               .row.justify-content-center.align-items-center(titulo="Paso 6")
                 .col-md-3
                   img(src='@/assets/curso/temas/tema2/ps1-6.png', alt='Texto que describa la imagen')
@@ -506,7 +515,7 @@
           .row.justify-content-center.align-items-center(titulo="Ventas electrónicas")
             .col-md-7
               p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
-              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios #[em webs] y hasta el WhatsApp sirven de apoyo.
+              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el WhatsApp sirven de apoyo.
             .col-md-4.mb-4.mb-md-0
               img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas por televisión")
@@ -518,11 +527,17 @@
           .row.justify-content-center.align-items-center(titulo="Venta personal")
             .col-md-7
               p En esta técnica sí hay contacto directo entre vendedor y cliente. Puede tener dos variables: ejecutarse por dentro o por fuera de las sedes de la empresa.
-              img(src='@/assets/curso/temas/tema2/aco1-5-2.png', alt='')
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 4. 
+                | Venta personal
+              img(src='@/assets/curso/temas/tema2/aco1-5-2.png', alt='Diagrama de flujo simple que muestra cómo la Venta Personal, se divide en venta interna o dentro del establecimiento y venta externa o fuera del establecimiento.')
             .col-md-4.mb-4.mb-md-0
-              img(src='@/assets/curso/temas/tema2/aco1-5-1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco1-5-1.png', alt='')
   
-      p.mb-5 A su vez, las ventas internas, se pueden clasificar en:  
+      .row
+        .col-md-5
+          .cajon.color-primario.p-4.mb-4
+            p A su vez, las ventas internas, se pueden clasificar en:  
   
       .row.justify-content-center.mb-5
         .col-lg-4.col-md-6.col-12.mb-4.mb-xl-0
@@ -549,8 +564,11 @@
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Venta en ferias, salones y exhibiciones
               p.mb-0.text-center.text-white Cuando la empresa expone sus productos o servicios a clientes potenciales en lugares especiales como salones especiales o zonas amplias donde pueda existir un buen ambiente. La empresa puede usar un salón de un hotel, por ejemplo. 
-  
-      p.mb-4 Por su lado, en las ventas externas, se pueden clasificar en: 
+
+      .row
+        .col-md-5
+          .cajon.color-primario.p-4.mb-4
+            p Por su lado, en las ventas externas, se pueden clasificar en: 
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-md-6.col-6
@@ -589,7 +607,7 @@
   
       separador
       #t_2_5.titulo-segundo.mb-5
-        h2 2.5 Buenas Prácticas de Manufactura (BPM )
+        h2 2.5 Buenas Prácticas de Manufactura (BPM)
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-1.col-md-2.col-2
@@ -650,7 +668,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="BPM de materias primas")
               .row.justify-content-center.align-items-center
-                p Si se sospecha que la materia prima es inadecuada, debe ser aislada de inmediato para ser rotulada y eliminarla. Las medidas que la empresa debe tener para eliminación de esta materia prima contaminada son específicas, según sea el proceso de elaboración. La materia prima debe estar almacenada en condiciones adecuadas que certifiquen su protección contra cualquier tipo de contaminante. Los productos terminados deben estar lejos del depósito para evitar la contaminación. Además, el almacenamiento se debe realizar en condiciones óptimas y el transporte debe realizarse según sean los principios higiénico-sanitarios que la empresa considere pertinentes.
+                p Si se sospecha que la materia prima es inadecuada, debe ser aislada de inmediato para ser rotulada y eliminarla. Las medidas que la empresa debe tener para eliminación de esta materia prima contaminada son específicas, según sea el proceso de elaboración. La materia prima debe estar almacenada en condiciones adecuadas que certifiquen su protección contra cualquier tipo de contaminante. Los productos terminados deben estar lejos del depósito para evitar la contaminación. Además, el almacenamiento se debe realizar en condiciones óptimas y el transporte debe realizarse según sean los principios higiénico - sanitarios que la empresa considere pertinentes.
             .row.col-xl-11.m-auto(titulo="BPM en los establecimientos")
               .row.justify-content-center.align-items-center
                   p No pueden estar ubicados en lugares que afecten la calidad del producto, como, por ejemplo, humedad o agua, peligro de deslave, o incluso olores censurables. Las vías internas en la empresa deben estar pavimentadas de tal forma que permitan la circulación de furgones, camiones y contenedores. La estructura del establecimiento debe ser sólida y sanitariamente apropiada, además, no debe haber materiales que transmitan sustancias indeseables a los alimentos. Deben existir muros y separaciones entre las áreas para evitar la contaminación cruzada. Los equipos e instrumentos deben ser de un material que permita desmontarlos para su desinfección. Es por esto por lo que el diseño de los equipos tiene que admitir una óptima desinfección. La limpieza de las áreas debe hacerse de manera fácil y adecuada. El agua usada para la limpieza tiene que ser potable y los pisos deben tener una inclinación del 2 % para su correcto desagüe. Y finamente, la caja de revisión se debe situar en el exterior de la PPA.
@@ -801,7 +819,7 @@
           .col-lg-10.col-md-12.col-sm-12
             .titulo-nuevo.mt-2
               | 
-              h2 Definiciones  para elaborar un Programa de Control de Plagas (PCP):
+              h2 Definiciones para elaborar un Programa de Control de Plagas (PCP):
   
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-3.col-md-5.col-5
@@ -831,7 +849,7 @@
                 span.mb-0 #[b Raticida:] rodenticida que controla solamente ratas.
               li 
                 i.fas.fa-bullhorn
-                span.mb-0 #[b Fumigación:] método rápido para controlas las plagas como, por ejemplo, cianuro de calcio y fosfuro de hidrógeno.
+                span.mb-0 #[b Fumigación:] método rápido para controlar las plagas como, por ejemplo, cianuro de calcio y fosfuro de hidrógeno.
   
       .row.justify-content-center.align-items-center
         .col-lg-10.col-md-12.col-sm-12
@@ -892,7 +910,7 @@
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img15.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
-          p La convicción es un tema vital en el proceso de ventas. La convicción radica en mostrar pruebas, hechos que comprueben lo que se afirma por parte de la empresa, bien sea publicitariamente o a través del equipo de la fuerza de ventas. Por eso al cliente se le debe convencer, pero muy importante, entusiasmarlo a la compra, de lo contrario sería inútil e improductivo. #[b El cliente  no solo debe estar convencido de las características del producto, sino, más importante aún, de las ventajas y beneficios que este le proporciona al comprarlo.] Por ello, la demostración es una acción vital y decisiva a través de la cual el vendedor puede persuadir a sus clientes.
+          p La convicción es un tema vital en el proceso de ventas. La convicción radica en mostrar pruebas, hechos que comprueben lo que se afirma por parte de la empresa, bien sea publicitariamente o a través del equipo de la fuerza de ventas. Por eso al cliente se le debe convencer, pero muy importante, entusiasmarlo a la compra, de lo contrario sería inútil e improductivo. El cliente  no solo debe estar convencido de las características del producto, sino, más importante aún, de las ventajas y beneficios que este le proporciona al comprarlo. Por ello, la demostración es una acción vital y decisiva a través de la cual el vendedor puede persuadir a sus clientes.
           p La demostración debe reunir estas cuatro características básicas: 
           .row
             .col-lg-6.col-md-12.col-sm-12
@@ -919,9 +937,9 @@
                   p #[b Persuasión:] motivar al posible cliente para que compre el producto por los beneficios exhibidos en la demostración.
   
       .row.mb-4
-        p Entonces, a la hora de la convicción, se requiere de un factor que refuerce los argumentos en una venta, y ese factor se llama “demostración”. #[b Sin la demostración se hace complejo poder llegar al cierre de una compra] (Universidad América Latina - UAL, 2021).
+        p Entonces, a la hora de la convicción, se requiere de un factor que refuerce los argumentos en una venta, y ese factor se llama “demostración”. Sin la demostración se hace complejo poder llegar al cierre de una compra (Universidad América Latina - UAL, 2021).
         p La demostración se puede considerar como el método que tiene un vendedor comercial para que el cliente se interese en el producto a través de su exposición de manera personalizada, para que no quepan dudas de que realmente es lo que necesita. 
-        p Debe desarrollarse de manera #[b dinámica y espectacular para captar mejor la atención del cliente.] Básicamente, consta de dos fases:
+        p Debe desarrollarse de manera dinámica y espectacular para captar mejor la atención del cliente. Básicamente, consta de dos fases:
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6.col-md-12.col-sm-12.p-1
@@ -954,16 +972,16 @@
           ul.lista-ul--color.color-secundario.fa-ul.mt-4.mb-5
             li 
               i.fas.fa-check-circle
-              span.mb-0 #[b Convence más] que las simples palabras, ya que se basa en la práctica.
+              span.mb-0 Convence más que las simples palabras, ya que se basa en la práctica.
             li 
               i.fas.fa-check-circle
-              span.mb-0 #[b Es más memorable,] haciendo que el producto sea difícil de olvidar.
+              span.mb-0 Es más memorable, haciendo que el producto sea difícil de olvidar.
             li 
               i.fas.fa-check-circle
-              span.mb-0 #[b Clarifica] conceptos que podrían ser abstractos.
+              span.mb-0 Clarifica conceptos que podrían ser abstractos.
             li 
               i.fas.fa-check-circle
-              span.mb-0 #[b Ahorra tiempo] span al exponer de manera personalizada las ventajas y beneficios del producto.
+              span.mb-0 Ahorra tiempo span al exponer de manera personalizada las ventajas y beneficios del producto.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img16.png', alt='')
   
@@ -1087,7 +1105,7 @@
                   i.fas.fa-check-circle
                   span.mb-0 Demostración efectiva en el tiempo preciso. 
         .col-lg-6.col-md-12.col-sm-12
-          p.mt-3 La manera en que el vendedor ordena su material y sincroniza la demostración, incide directamente en la selección de las herramientas visuales (tales como fotografías, esquemas, gráficos, diagramas, pruebas, etc.). Esta selección brinda el más alto potencial para optimizar las demostraciones debido a las siguientes razones:
+          p.mt-3 La manera en que el vendedor ordena su material y sincroniza la demostración, incide directamente en la selección de las herramientas visuales (tales como fotografías, esquemas, gráficos, diagramas, pruebas, etc). Esta selección brinda el más alto potencial para optimizar las demostraciones debido a las siguientes razones:
           .row.align-items-center.justify-content-center
             .col-lg-4.col-md-6.col-6
               img(src='@/assets/curso/temas/tema2/tar10-2.png', alt='')
