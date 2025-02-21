@@ -280,7 +280,7 @@ export default {
     {
       termino: 'Promoción de venta',
       significado:
-        'acciones publicitarias y de mercadeo que incentivan a los clientes a tomar una decisión de compra en corto plazo, a través de técnicas promocionales como rebajas en el precio de un producto o servicio, descuentos, ofertas, cupones o el tradicional 2x1, entre otras.',
+        'acciones publicitarias y de mercadeo que incentivan a los clientes a tomar una decisión de compra en corto plazo, a través de técnicas promocionales como rebajas en el precio de un producto o servicio, descuentos, ofertas, cupones o el tradicional 2 x 1, entre otras.',
     },
     {
       termino: 'Stand',

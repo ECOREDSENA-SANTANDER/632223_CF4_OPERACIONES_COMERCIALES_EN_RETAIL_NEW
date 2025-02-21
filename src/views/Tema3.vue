@@ -11,7 +11,7 @@
         .col-lg-8.col-md-12.col-sm-12
           p Es el grupo de instrumentos de comunicación que usa la empresa de forma masiva o personalizada para hacer promoción de una marca, producto o servicio, con el fin de llamar la atención del público objetivo al que van dirigidos (Wolters, 2021).
           .cajon.color-acento-contenido.p-4.mb-4
-            p La comunicación es uno de los cuatro instrumentos básicos del mercadeo, que se clasifican tradicionalmente en publicidad, relaciones públicas, promoción de ventas y venta personal. En la actualidad se han sumado otras dos, el #[em buzz marketing] o el #[em marketing]  experiencial. Por eso, hoy se suele hablar de comunicación 360º o Comunicación Integrada de #[em Marketing] (CIM). La idea es que ayude a lograr los objetivos de #[em marketing] a través de la comunicación, buscando la eficacia en las estrategias y su respectivo plan de acción, conociendo lo mejor posible al cliente objetivo e impactándolo a través de todos los medios que sean posibles (según el músculo financiero de la marca) y con una estrategia envolvente.
+            p La comunicación es uno de los cuatro instrumentos básicos del mercadeo, que se clasifican tradicionalmente en publicidad, relaciones públicas, promoción de ventas y venta personal. En la actualidad se han sumado otras dos, el #[em buzz] marketing o el marketing experiencial. Por eso, hoy se suele hablar de comunicación 360º o Comunicación Integrada de Marketing (CIM). La idea es que ayude a lograr los objetivos de marketing a través de la comunicación, buscando la eficacia en las estrategias y su respectivo plan de acción, conociendo lo mejor posible al cliente objetivo e impactándolo a través de todos los medios que sean posibles (según el músculo financiero de la marca) y con una estrategia envolvente.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema3/img1.png', alt='')
   
@@ -252,7 +252,7 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
-          p Es una herramienta muy efectiva de #[em Branding], que en la actualidad puede ser usada de manera estratégica en las tiendas #[em online] o #[em e-commerce]. Estrategia tradicional de #[em marketing] que también es llamada #[em Sampling] y que radica en el envío de una muestra de productos de manera gratuita y con un claro objetivo promocional (Florido, 2021).
+          p Es una herramienta muy efectiva de #[em Branding], que en la actualidad puede ser usada de manera estratégica en las tiendas #[em online] o #[em e-commerce]. Estrategia tradicional de marketing que también es llamada #[em Sampling] y que radica en el envío de una muestra de productos de manera gratuita y con un claro objetivo promocional (Florido, 2021).
           p La muestra gratis se envía al lugar de ubicación donde se encuentra, bien sea el cliente real y habitual, o el cliente potencial. Cuando se trata del cliente real y habitual, lo que se busca primordialmente es fidelizarlo para que él termine referenciando el producto a sus contactos, es decir, lo que se intenta hacer es incentivar el tradicional “voz a voz”, que en realidad es la mejor promoción que una marca puede tener, porque los clientes confían más en las sugerencias de alguien conocido que en la misma publicidad. Cuando se trata de un cliente potencial, lo que se busca es que lo conozca para que más adelante termine comprándolo.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema3/sly1-4.png', alt='')
@@ -260,7 +260,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-8.col-md-12.col-sm-12
           .cajon.color-primario.p-4.mb-4
-            p.p-3 Por eso, la estrategia de #[em marketing] que se relaciona con el envío de las muestras gratis debe estar bien pensada porque no se trata de enviar cualquier objeto. Se trata de cuidar muy bien la imagen de la marca eligiendo muy bien el artículo de regalo para generar un impacto significativo en el cliente.  
+            p.p-3 Por eso, la estrategia de marketing que se relaciona con el envío de las muestras gratis debe estar bien pensada porque no se trata de enviar cualquier objeto. Se trata de cuidar muy bien la imagen de la marca eligiendo muy bien el artículo de regalo para generar un impacto significativo en el cliente.  
   
       .row.justify-content-center.align-items-center
         .col-lg-12.col-md-12.col-sm-12
@@ -637,13 +637,13 @@
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema3/img8.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
-          p La omnicanalidad busca ofrecer una experiencia de cliente cohesiva y significativa, independientemente del canal utilizado, ya sea tradicional o digital. Esta estrategia, ampliamente aceptada por empresas y estrategas de #[em marketing], aún cuenta con pocos casos de implementación completa debido a su novedad (Romero, Maldonado y Núñez, 2021).
+          p La omnicanalidad busca ofrecer una experiencia de cliente cohesiva y significativa, independientemente del canal utilizado, ya sea tradicional o digital. Esta estrategia, ampliamente aceptada por empresas y estrategas de marketing, aún cuenta con pocos casos de implementación completa debido a su novedad (Romero, Maldonado y Núñez, 2021).
           p La globalización de las TIC y la adopción masiva de la telefonía móvil han transformado la relación con los clientes, obligando a las empresas a gestionar interacciones en múltiples canales de forma ubicua.
           p A diferencia de la multicanalidad, que se centra en disponer de varios canales de comunicación, la omnicanalidad requiere un enfoque estratégico más complejo, integrando canales tradicionales y digitales para ofrecer una experiencia sin fisuras al cliente.
           .cajon.color-primario.p-4.mb-4
             p La implementación de la omnicanalidad demanda una metodología que considere las perspectivas del cliente, la empresa y los requerimientos técnicos. Es crucial que los intereses y comportamientos del cliente guíen los requisitos de la infraestructura tecnológica necesaria para conectar los canales.
   
-      p.mb-0 Este nuevo contexto obliga a las empresas a evolucionar para adaptarse a un ecosistema competitivo complejo, impactando en cultura, recursos, tecnología, datos, comunicación, #[em marketing], operaciones y procesos, con el cliente como centro.
+      p.mb-0 Este nuevo contexto obliga a las empresas a evolucionar para adaptarse a un ecosistema competitivo complejo, impactando en cultura, recursos, tecnología, datos, comunicación, marketing, operaciones y procesos, con el cliente como centro.
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12

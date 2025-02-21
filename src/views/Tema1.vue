@@ -173,14 +173,14 @@
       separador
       #t_1_3.titulo-segundo.mb-5
         h2 1.3 Promoción
-      p La promoción es un plan integral de #[em marketing] que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de #[em marketing], puesto que su elaboración involucra la toma de decisiones sobre todas las variables del #[em mix de marketing]. Los objetivos de una promoción deben ser muy bien definidos y además concretos.  
+      p La promoción es un plan integral de marketing que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de marketing, puesto que su elaboración involucra la toma de decisiones sobre todas las variables del #[em mix] de marketing. Los objetivos de una promoción deben ser muy bien definidos y además concretos.  
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Técnicas de promoción
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p.mb-4 Área del #[em marketing] donde se debe entregar una gran dosis de creatividad  para lograr mejores resultados. Entre las diferentes técnicas se pueden destacar las siguientes:
+      p.mb-4 Área del marketing donde se debe entregar una gran dosis de creatividad  para lograr mejores resultados. Entre las diferentes técnicas se pueden destacar las siguientes:
   
       .row.fondo1.align-items-center.p-3(data-aos="fade-down").mb-4
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -203,13 +203,13 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Programas de fidelización #[em focus costumer]
-                  p.mb-4 En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de #[em marketing] relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca. 
+                  p.mb-4 En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de marketing relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca. 
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly2-3.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Promociones económicas
-                  p.mb-4 Se refiere a todas aquellas promociones que tienen un premio económico como por ejemplo un descuento, rebajas, ofertas, 2x1, productos gratis, cupones con descuento, etc.
+                  p.mb-4 Se refiere a todas aquellas promociones que tienen un premio económico como por ejemplo un descuento, rebajas, ofertas, 2 x 1, productos gratis, cupones con descuento, etc.
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly2-4.png")
               .row.justify-content-center.align-items-center.p-4
@@ -431,7 +431,7 @@
               h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Clasificación y tipología
               img.icon(src='@/assets/curso/temas/icon.svg') 
           p.mt-5 El  objetivo de un evento debe definir su tipología, mientras que su formato es el medio o canal utilizado para llevarlo a cabo.
-          p Por ejemplo, los eventos de motivación pueden realizarse mediante #[em networking], viajes de incentivos o convenciones. Los eventos de posicionamiento de marca pueden llevarse a cabo a través de acciones callejeras, #[em marketing] de guerrilla, #[em roadshows, happenings, marketing] ambiental o eventos promocionales. Los eventos institucionales pueden utilizar formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas. Además, los eventos relacionales y co-participativos pueden organizarse mediante desayunos, almuerzos, #[em focus groups], cocreación, entre otros.
+          p Por ejemplo, los eventos de motivación pueden realizarse mediante #[em networking], viajes de incentivos o convenciones. Los eventos de posicionamiento de marca pueden llevarse a cabo a través de acciones callejeras, marketing de guerrilla, #[em roadshows, happenings], marketing ambiental o eventos promocionales. Los eventos institucionales pueden utilizar formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas. Además, los eventos relacionales y co-participativos pueden organizarse mediante desayunos, almuerzos, #[em focus groups], cocreación, entre otros.
           p Así, se pueden explorar muchas más modalidades de eventos que pueden ser consideradas en las estrategias patrocinadas por una marca.
           p Pueden diferenciarse en dos grandes bloques: 
         .col-lg-4.col-md-6.col-6
@@ -452,7 +452,7 @@
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-1.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de #[em marketing], que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
+              p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de marketing, que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
         .py-3.py-md-4.px-3(titulo="Aniversarios de empresa")
           .row.justify-content-center
             .col-lg-3.col-md-5.col-5.mb-4
