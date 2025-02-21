@@ -33,7 +33,7 @@
                   .col-10
                     p.mt-3 Informar. Esto incluye detalles sobre características, beneficios, precios, promociones y puntos de venta.
       
-      p Estos dos objetivos deben estar implícitos en cualquier pieza publicitaria, y aunque no son exclusivos de la publicidad, sí exponen el porqué de su existencia para beneficio de las marcas. Su propósito será siempre la provocación, la acentuación o lograr la aceptación de la marca, producto o servicio que se expone en las diferentes piezas publicitarias, tales como comerciales de televisión, anuncios de prensa y revista, publicidad exterior, cuñas radiales, volantes, afiches, #[em eCards], #[em banners], etc. 
+      p Estos dos objetivos deben estar implícitos en cualquier pieza publicitaria, y aunque no son exclusivos de la publicidad, sí exponen el porqué de su existencia para beneficio de las marcas. Su propósito será siempre la provocación, la acentuación o lograr la aceptación de la marca, producto o servicio que se expone en las diferentes piezas publicitarias, tales como comerciales de televisión, anuncios de prensa y revista, publicidad exterior, cuñas radiales, volantes, afiches, #[em eCards], banners, etc. 
       
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
