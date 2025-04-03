@@ -34,7 +34,7 @@
       separador
       #t_2_1.titulo-segundo.mb-5
         h2 2.1 Portafolio de productos
-      p.mb-5 También conocido con el nombre de gama de productos. Es un conjunto de productos muy relacionados entre sí por sus funciones y servicios; se diferencian por sus características, tamaños, colores , olores, entre otros. Se refiere al total de artículos que una marca ofrece al consumidor para que tenga opciones de escoger.
+      p.mb-5 También conocido con el nombre de gama de productos. Es un conjunto de productos muy relacionados entre sí por sus funciones y servicios; se diferencian por sus características, tamaños, colores, olores, entre otros. Se refiere al total de artículos que una marca ofrece al consumidor para que tenga opciones de escoger.
 
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -245,7 +245,7 @@
                 p La visión es el norte de la marca, si se visualiza, entonces se puede alcanzar. No se pueden planificar estrategias si no se sabe a dónde se quiere llegar. Por su lado, la misión, es el ahora, quién se es en la actualidad. Por otro lado, una estrategia comercial para que sea exitosa debe ser realista, lo que implica tener claro cuáles son las metas a las que la empresa puede dar cumplimiento según sus recursos, en un período determinado de tiempo. Por eso, la visión y la misión son fundamentales.
             .row.col-xl-11.m-auto(titulo="La estrategia comercial debe ser medible y flexible")
               .row.justify-content-center.align-items-center
-                p La ejecución de la estrategia comercial se debe medir en cada una de sus fases, por lo que los indicadores deben estar preestablecidos. El resultado debe permitir un ajuste en la estrategia en pos de lograr un mejoramiento continuo.
+                p La ejecución de la estrategia comercial se debe medir en cada una de sus fases, por lo que los indicadores deben estar preestablecidos. El resultado debe permitir un ajuste en la estrategia en pro de lograr un mejoramiento continuo.
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -259,19 +259,19 @@
           ol.lista-ol--cuadro.lista-ol--separador.fa-ol
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b 1]
+                span #[b A]
               span.mb-0 La estrategia debe estar planteada en términos operativos, con responsables específicos, acciones detalladas y  plazos establecidos.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b 2]
+                span #[b B]
               span.mb-0 Una vez determinada la estrategia, el trabajo y la organización de la empresa deben alinearse para el logro de los objetivos pactados.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b 3]
+                span #[b C]
               span.mb-0 Cada uno de los empleados de la empresa debe tener conocimiento sobre la estrategia comercial, así como también las acciones concretas que se van a desarrollar para aportar a la contribución con el cumplimiento de sus labores.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b 4]
+                span #[b D]
               span.mb-0 Según su definición, la estrategia comercial de ventas se debe gestionar como un proceso que se desarrolla de manera continua e ininterrumpida.
             li    
         .col-lg-4.col-md-6.col-6
@@ -340,7 +340,7 @@
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.col-md-12.col-sm-12
-          p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, #[em blog], sitio web, etc.), son vitales para las empresas contemporáneas. 
+          p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, #[em blog], sitio #[em web], etc.), son vitales para las empresas contemporáneas. 
           p Por su lado, la estrategia comercial #[em offline] completa todas las acciones tradicionales de ventas desarrolladas a lo largo de la historia. Utiliza canales distintos a internet, pero eso no quiere decir que sean incompatibles.
           p Son muchas las marcas que de manera exitosa unen ambos tipos de estrategia (#[em online] y #[em offline]), dando como resultado una decisión inteligente porque de esta manera se logra el diseño de una estrategia omnicanal que en la actualidad es de amplia aceptación.  A continuación, se expondrán los siguientes pasos para el desarrollo de una estrategia comercial efectiva.      
         .col-lg-4.col-md-6.col-6
@@ -461,22 +461,22 @@
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/temas/tema2/fig3.png', alt='La imagen detalla  un diagrama circular que representa los factores del entorno interno de una empresa. El círculo está dividido en seis segmentos, cada uno con un ícono distinto: una bombilla (Capacidad de investigación, desarrollo y tecnología), un trofeo (filosofía empresarial, objetivos), un gráfico de barras (desempeño, atención al cliente), un globo terráqueo (capacidad de producción y cadena de suministros), un símbolo de dólar (Recursos financieros) y un ícono de conversación (recursos humanos). Se sugiere por la ubicación la interconexión y la diversidad de estos factores internos. ', style='')
-              .tarjeta.color-acento-contenido.p-4(x="65%" y="13%" numero="01")
+              .tarjeta.color-acento-contenido.p-4(x="65%" y="13%" numero="A")
                 h5 Metas, objetivos y cultura
                 p.mb-0 Tiene que ver con la filosofía empresarial, o sea sus principios, objetivos, misión, visión y valores de una empresa. Se convierten en su ruta de navegación, su norte. 
-              .tarjeta.color-acento-contenido.p-4(x="74%" y="50%" numero="02")
+              .tarjeta.color-acento-contenido.p-4(x="74%" y="50%" numero="B")
                 h5 Recursos humanos
                 p.mb-0 Tiene que ser con los empleados de la empresa y es obligatorio reflexionar sobre la integración de todos los miembros que hacen parte de la empresa. Se debe analizar en los perfiles, la rotación y las características que deben tener los ejecutivos de la fuerza de ventas ya que pueden tener una gran movilidad.
-              .tarjeta.color-acento-contenido.p-4(x="66%" y="82%" numero="03")
+              .tarjeta.color-acento-contenido.p-4(x="66%" y="82%" numero="C")
                 h5 Recursos financieros
                 p.mb-0 Tiene que ver con el músculo financiero de la empresa. Si tiene buenos recursos financieros podrá invertir en la investigación y desarrollo de nuevos productos o servicios y, además, capacitar correctamente a quienes laboran en esta área.
-              .tarjeta.color-acento-contenido.p-4(x="35%" y="86%" numero="04")
+              .tarjeta.color-acento-contenido.p-4(x="35%" y="86%" numero="D")
                 h5 Capacidad de producción y cadena de suministro
                 p.mb-0 Tiene que ver con la ubicación de las plantas productivas, la tecnología usada por la empresa y el equipo que tiene a su disposición. Todo esto influye en los planes de mercadeo y ventas. Como el tema es el suministro, la empresa debe prestar atención especial en garantizar que los productos siempre se encuentren disponibles en el punto de venta. 
-              .tarjeta.color-acento-contenido.p-4(x="25%" y="50%" numero="05")
+              .tarjeta.color-acento-contenido.p-4(x="25%" y="50%" numero="E")
                 h5 Capacidad de servicio
                 p.mb-0 Tiene que ver con la atención al cliente. Toda empresa debe cumplir con un alto nivel en la calidad del servicio prestado al cliente. Ofrecer a los clientes un valor agregado y un excelente servicio, antes, durante y después de una venta, puede hacer la diferencia competitiva.
-              .tarjeta.color-acento-contenido.p-4(x="35%" y="13%" numero="06")
+              .tarjeta.color-acento-contenido.p-4(x="35%" y="13%" numero="F")
                 h5 Capacidad de investigación y desarrollo y tecnología
                 p.mb-0 Tiene que ver con la inversión en tecnología y en la investigación de nuevos productos que permita a la empresa estar un paso delante de la competencia. 
   
@@ -515,7 +515,7 @@
           .row.justify-content-center.align-items-center(titulo="Ventas electrónicas")
             .col-md-7
               p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
-              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el WhatsApp sirven de apoyo.
+              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios #[em webs] y hasta el WhatsApp sirven de apoyo.
             .col-md-4.mb-4.mb-md-0
               img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas por televisión")
@@ -950,7 +950,7 @@
               .p-3
                 .row.align-items-center.justify-content-center
                   .col-1
-                    h1.mt-4.textonaranja 1
+                    h1.mt-4.textonaranja A
                   .col-11
                     p.mt-4 #[b Primera fase:] interesar al posible cliente exhibiéndole de forma inteligente los argumentos.
         .col-lg-6.col-md-12.col-sm-12.p-1
@@ -961,7 +961,7 @@
               .p-3
                 .row.align-items-center.justify-content-center
                   .col-1
-                    h1.mt-2.textonaranja 2
+                    h1.mt-2.textonaranja B
                   .col-11
                     p.mt-2 #[b Segunda fase:] convencer al posible cliente a través de la exposición de pruebas, demostrando con hechos las ventajas y beneficios que otorga el producto.
   
@@ -998,7 +998,7 @@
           p.mb-4 Cuando se enfrenta a un posible cliente, es crucial considerar las diferencias individuales en relación con los medios visuales. Si el cliente no comprende bien la presentación oral, el vendedor debería usar medios visuales de comunicación. Esto resalta la importancia de las cuatro características básicas de la demostración: comprensión, interés, credulidad y persuasión, para motivar la compra.
           .cajon.color-primario.p-5.mb-5
             .h5 Preguntarse. ¿Qué se puede mostrar al cliente para realzar la presentación? 
-            p Es fundamental contar con, videos, imágenes, fotografías, multimedia y presentaciones digitales, con las cuales se puede hacer la demostración más efectiva. Incluso, un testimonio de un cliente satisfecho puede ser muy convincente .
+            p Es fundamental contar con, videos, imágenes, fotografías, multimedia y presentaciones digitales, con las cuales se puede hacer la demostración más efectiva. Incluso, un testimonio de un cliente satisfecho puede ser muy convincente.
       
       p Al exhibir las ventajas del producto, el vendedor debe aprovechar la acumulación espacial y la selectividad de la percepción. Mantener cautivos los ojos y oídos del cliente aumenta las posibilidades de venta. La elección del canal adecuado puede manipular la atención del cliente, incrementando el realismo y facilitando la comprensión de la demostración.
       p Para complementar se exponen los siguientes principios del saber: 
@@ -1006,7 +1006,7 @@
   
       .row.align-items-center.justify-content-center
         .col-sm-12.col-md-12.col-lg-8
-            PasosA.color-acento-contenido.mb-5(tipo="n")
+            PasosA.color-acento-contenido.mb-5(tipo="l")
               .row.align-items-end
                 .col-auto
                   h4.mb-4  Participación
@@ -1130,7 +1130,7 @@
           img(src='@/assets/curso/temas/tema2/img18.png', alt='')
         .col-lg-8.col-md-12.col-sm-12    
           p Es una actividad promocional que se constituye en una importante herramienta para mostrar al público las bondades de un nuevo producto, un nuevo sabor, una nueva fórmula o un producto que tuvo cambios y lo mejoraron, entre otros. Hay diferentes opciones para llegar e impactar al cliente potencial con la intención de que pruebe el producto, que en realidad es el objetivo central de la actividad (Universidad América Latina - UAL, 2021). 
-          p Obviamente, posterior a la acción de degustar el producto se encuentra la intención de motivar la compra de este, aprovechando el apoyo (visual, publicitario, recursos humanos, materiales de trabajo, abastecimiento, logística, etc.) con lo cual, se cuenta durante toda la actividad . La degustación se debe situar en los lugares donde exista más concentración de clientes, con el objetivo de aumentar el número de impactos logrados por “degustación” al día. Se sugiere un gran número de sitios donde se exhiba la degustación, es decir, tener una mayor cobertura geográfica (área o ciudad que se pretenda impactar).   
+          p Obviamente, posterior a la acción de degustar el producto se encuentra la intención de motivar la compra de este, aprovechando el apoyo (visual, publicitario, recursos humanos, materiales de trabajo, abastecimiento, logística, etc.) con lo cual, se cuenta durante toda la actividad. La degustación se debe situar en los lugares donde exista más concentración de clientes, con el objetivo de aumentar el número de impactos logrados por “degustación” al día. Se sugiere un gran número de sitios donde se exhiba la degustación, es decir, tener una mayor cobertura geográfica (área o ciudad que se pretenda impactar).   
           .cajon.color-primario.p-4.mb-4
             p Hay quienes mencionan que esta actividad solo es una buena alternativa para comer en el punto de venta y que no representa un buen beneficio para la marca. Pero, para poder ser más prudente con el análisis, se recomienda tener claro cómo están las ventas del producto en el momento antes de la degustación, y cómo reaccionan durante y después de la misma. La medición final va a permitir el establecimiento bastante preciso sobre la eficacia de la actividad en el punto de venta. 
   

@@ -133,7 +133,7 @@
   
       .row.justify-content-center
         .col-lg-8
-          PasosA.color-acento-contenido.mb-5(tipo="n")
+          PasosA.color-acento-contenido.mb-5(tipo="l")
             .row.align-items-end
               .col-auto
                 figure(data-aos="zoom-in")
@@ -323,54 +323,54 @@
           ol.lista-ol--cuadro.lista-ol-.fa-ol.p-2
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b A]
-              span.mb-0 Incrementar el tráfico en el sitio web.
+                span #[b a]
+              span.mb-0 Incrementar el tráfico en el sitio #[em web].
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b B]
+                span #[b b]
               span.mb-0 Aumentar las ventas de la marca.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b C]
+                span #[b c]
               span.mb-0 Neutralizar las acciones que desarrolle la competencia.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b D]
+                span #[b d]
               span.mb-0 Captar nuevos clientes.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b E]
+                span #[b e]
               span.mb-0 Potenciar la marca.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
-                span #[b F]
+                span #[b f]
               span.mb-0 Lograr una liquidez económica.
         .col-lg-4.col-md-12.col-sm-12
           ol.lista-ol--cuadro.lista-ol-.fa-ol.p-2
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b G]
+                span #[b g]
               span.mb-0 Fidelizar a los clientes.
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b H]
+                span #[b h]
               span.mb-0 Lanzar nuevos productos.
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b I]
+                span #[b i]
               span.mb-0 Incentivar equipos de venta.
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b J]
+                span #[b j]
               span.mb-0 Apoyar la campaña publicitaria.
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b K]
+                span #[b k]
               span.mb-0 Conseguir más fanáticos en redes sociales.
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
-                span #[b L]
-              span.mb-0 Posicionar  la marca en la web, entre otras.
+                span #[b l]
+              span.mb-0 Posicionar  la marca en la #[em web], entre otras.
   
       .row.justify-content-center.align-items-center
         .col-lg-8.col-md-12.col-sm-12
@@ -464,7 +464,7 @@
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-3.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de internet, como #[em blogs] y sitios web. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
+              p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de internet, como #[em blogs] y sitios #[em web]. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
         .py-3.py-md-4.px-3(titulo="Lanzamiento de productos")
           .row.justify-content-center
             .col-lg-3.col-md-5.col-5.mb-4

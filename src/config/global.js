@@ -225,7 +225,7 @@ export default {
     {
       termino: 'Canales',
       significado:
-        'Diferentes medios a través de los cuales la empresa se comunica y relaciona con sus clientes, como tiendas físicas, sitios web, aplicaciones móviles, redes sociales, entre otros.',
+        'Diferentes medios a través de los cuales la empresa se comunica y relaciona con sus clientes, como tiendas físicas, sitios <i>web</i>, aplicaciones móviles, redes sociales, entre otros.',
     },
     {
       termino: 'Conveniencia',
@@ -368,9 +368,9 @@ export default {
       link: 'https://www.lifeder.com/funciones-asesor-comercial/',
     },
     {
-      referencia:
-        'Wolters Kluwer N.V. (2021). Comunicación comercial. Tomado de https://guiasjuridicas.wolterskluwer.es.',
-      link: '',
+      referencia: 'Wolters Kluwer N.V. (2021). Comunicación comercial.',
+      link:
+        'https://guiasjuridicas.wolterskluwer.es/Content/Documento.aspx?params=H4sIAAAAAAAEAMtMSbF1jTAAASMjc0sLtbLUouLM_DxbIwMDS0NDA1OQQGZapUt-ckhlQaptWmJOcSoA2UBwSDUAAAA=WKE',
     },
     {
       referencia:

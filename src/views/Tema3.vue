@@ -31,7 +31,7 @@
                   .row.mt-5
                   .row.mt-5
                   h4.text-center.mt-5 Nivel corporativo
-                  p.text-center.mb-5 El objetivo de comunicación es construir , defender y mantener la reputación de la marca.
+                  p.text-center.mb-5 El objetivo de comunicación es construir, defender y mantener la reputación de la marca.
                   .row.mb-5
                   .row.mb-5
         .col-lg-4.col-md-12.col-12
@@ -94,7 +94,7 @@
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Canales y tipos de contacto
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p Canal o medio de contacto es la ruta por la que un cliente interesado en una empresa puede entrar en contacto con ella. Algunos de ellos permiten un contacto bidireccional con el cliente utilizando medios como: redes sociales, chat, blog, teléfono, etc. Otros no los utilizan como, por ejemplo, los medios masivos: televisión, prensa, revistas, etc. 
+      p Canal o medio de contacto es la ruta por la que un cliente interesado en una empresa puede entrar en contacto con ella. Algunos de ellos permiten un contacto bidireccional con el cliente utilizando medios como: redes sociales, #[em chat], #[em blog], teléfono, etc. Otros no los utilizan como, por ejemplo, los medios masivos: televisión, prensa, revistas, etc. 
       p.mb-4 En este apartado de canales y tipos de contacto, se refiere a aquellos medios en los que la empresa le da la oportunidad al cliente de tener una conversación o una interacción. Así entonces, las empresas en la actualidad eligen preferiblemente diferentes canales, en los que pueda existir ese contacto bidireccional con sus clientes, así:
   
       .row.justify-content-center.align-items-center
@@ -112,7 +112,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-2.png', alt='')
             .row.align-items-center.justify-content-center(numero="3" titulo= "Formulario de contacto")
               .col-md-10.col-lg-7.col-sm-12
-                p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poderles ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio web, y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
+                p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poderles ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio #[em web], y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
               .col-md-2.col-lg-4.col-4
                 img(src='@/assets/curso/temas/tema3/ps1-3.png', alt='')
             .row.align-items-center.justify-content-center(numero="4" titulo= "Redes sociales")
@@ -122,7 +122,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-4.png', alt='')
             .row.align-items-center.justify-content-center(numero="5" titulo= "<i>Chatbot</i>")
               .col-md-10.col-lg-7.col-sm-12
-                p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
+                p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo #[em chat] puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
               .col-md-2.col-lg-4.col-4
                 img(src='@/assets/curso/temas/tema3/ps1-5.png', alt='')
             .row.align-items-center.justify-content-center(numero="6" titulo= "WhatsApp")
@@ -153,49 +153,49 @@
         .col-sm-12.col-md-12.col-lg-12
           .tarjeta.tarjeta--rosada.p-4
             LineaTiempoC.color-acento-contenido(text-small)
-              .row.justify-content-center.align-items-center(titulo="1")
+              .row.justify-content-center.align-items-center(titulo="A")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-1.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conocer ampliamente el mercado
                   p Esta función abarca no solo poseer datos precisos sobre la esencia de la venta, sino también sobre desarrollar una investigación de las necesidades reales de los clientes, para ofrecerles el producto o servicio que mejor se adecúe a sus necesidades o deseos. También permite al asesor comercial descubrir potenciales clientes, conociendo en dónde se encuentran y cómo contactarlos.
-              .row.justify-content-center.align-items-center(titulo="2")
+              .row.justify-content-center.align-items-center(titulo="B")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-2.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conocer el producto o servicio que ofrece
                   p Todo asesor comercial debe probar el producto o servicio que ofrece poniéndose por un instante en la piel del consumidor. Así es como el asesor puede estar en capacidad de dar respuesta a cualquier pregunta o duda que tenga el cliente, y llegar incluso a anticiparse, proporcionándole la información puntual que él está requiriendo.
-              .row.justify-content-center.align-items-center(titulo="3")
+              .row.justify-content-center.align-items-center(titulo="C")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-3.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Ser un asesor activo
                   p Esta función es la que hace la diferencia entre un vendedor de un asesor comercial. El asesor no se limita en responder preguntas del cliente, sino que intenta indagar sobre sus necesidades, escuchándolo con atención para ofrecerle la mejor opción, aunque esta pueda ser completamente distinta a la que en principio el cliente buscaba.
-              .row.justify-content-center.align-items-center(titulo="4")
+              .row.justify-content-center.align-items-center(titulo="D")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-4.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Proporcionar información pertinente
                   p Es una obligación tener consigo toda la información sobre el producto. Esto lo puede lograr leyendo los instructivos y datos de los productos, pero también probándolos, sintiendo en carne propia los atributos y carencias, usos y precauciones. El vendedor busca el producto que el cliente le pidió. En cambio, el asesor comercial averigua sobre la necesidad que el comprador desea satisfacer al adquirirlo y, si es del caso, le puede sugerir una mejor elección, o simplemente ratifica la buena selección del producto por parte del cliente. También debe estar enterado sobre competencia y sobre las características del mercado. Por ello, debe tener curiosidad, ser investigador y estar al día sobre tendencias, novedades, actualidad, lanzamiento de productos, artículos discontinuos, cambios en las políticas comerciales o de fabricación, leyes, normas y todo aquello que pueda incidir o comprometer la venta.
-              .row.justify-content-center.align-items-center(titulo="5")
+              .row.justify-content-center.align-items-center(titulo="E")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-5.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Mantener una comunicación eficiente
                   p También es obligatorio tener los instrumentos adecuados para tener una excelente comunicación, tanto oral como escrita, con el comprador. Además de entenderlo y escucharlo, debe aplicar la psicología para conseguir información relevante con el fin de ofrecerle la mejor elección o, si es necesario, hacerlo cambiar de opinión. Por eso, esta función también trae consigo el ser perceptivo y el ser comprensivo.
-              .row.justify-content-center.align-items-center(titulo="6")
+              .row.justify-content-center.align-items-center(titulo="F")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-6.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Tener una actitud proactiva
                   p Debe adelantarse a las necesidades del cliente, siempre pensando en su satisfacción y en la solución de sus problemas. Esto lo logra siempre y cuando lo conozca bien, sabiendo qué es lo que necesita y por qué lo busca, llevando un historial de sus compras y obteniendo datos relevantes como, por ejemplo, qué productos ha adquirido, cuál es el estilo de vida que tiene, cuáles son sus gustos e intereses, cómo se compone su núcleo familiar, y todos los datos que pueda obtener de él. Es así como el asesor comercial podrá estar en condiciones de anticiparse al cliente para poderle ofrecer beneficios o variedad de elecciones hasta que descubra lo que realmente requiere, como, por ejemplo, nuevos productos o nuevas versiones de artículos que ya tiene.
-              .row.justify-content-center.align-items-center(titulo="7")
+              .row.justify-content-center.align-items-center(titulo="G")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-7.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Hacer seguimiento de los clientes
                   p Una de las funciones más importantes es hacer un seguimiento exhaustivo de los clientes, identificando a los compradores insatisfechos  que no encontraron en el mercado el producto que satisfaga sus necesidades o deseos. Es crucial mantener la lealtad de los clientes fieles y captar a los potenciales, motivándolos a realizar una compra y familiarizarse con los productos de la marca. Para lograrlo, es esencial administrar una base de datos actualizada que permita al asesor comercial contactar tanto a clientes actuales como potenciales. Esta base de datos debe incluir información como números telefónicos y correos electrónicos para enviarles noticias y ofertas de su interés.
-              .row.justify-content-center.align-items-center(titulo="8")
+              .row.justify-content-center.align-items-center(titulo="H")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2(src='@/assets/curso/temas/tema3/ps2-8.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
@@ -317,7 +317,7 @@
                     .row.mt-5.mb-3
                     .col-lg-6.mt-5.bgblanco
                       h4.mt-2.ps-2 Plantillas gratuitas Wordpress y Wix
-                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios web y #[em blogs], llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc). El cliente puede elegir una plantilla para su sitio web, probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio web o #[em blog].
+                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios #[em web] y #[em blogs], llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc). El cliente puede elegir una plantilla para su sitio #[em web], probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio #[em web] o #[em blog].
             .row.mt-5
   
       p.mb-4.mt-4 La estrategia consiste entonces en que las empresas entreguen muestras gratis de sus productos con la finalidad de fidelizar los clientes reales y habituales o de alcanzar clientes potenciales que se interesen por lo que la empresa ofrece. Cuando el cliente prueba un producto, sea cual sea, tiene más posibilidades de terminar comprándolo, siempre y cuando le haya gustado.
@@ -490,7 +490,7 @@
                   .row.align-items-center.justify-content-center
                     .col-lg-6
                       .h4 #[em Sticker]
-                      p También se conoce con el nombre de adhesivo. Es un impreso publicitario o promocional que puede ser adherido sobre los propios productos, o incluso sobre otros materiales publicitarios. Pueden resaltar una promoción, precio o producto en el stock. Puede destacar una oferta, informar novedades que posea un producto y sirve para cautivar la atención del cliente. Su tamaño es menor al de los demás materiales POP, pero su diseño y formato resultan provechosos, porque aún así la marca puede informar al cliente sobre datos de su interés, y al estar pegado sobre producto, ayuda a aumentar la intención de compra.
+                      p También se conoce con el nombre de adhesivo. Es un impreso publicitario o promocional que puede ser adherido sobre los propios productos, o incluso sobre otros materiales publicitarios. Pueden resaltar una promoción, precio o producto en el #[em stock]. Puede destacar una oferta, informar novedades que posea un producto y sirve para cautivar la atención del cliente. Su tamaño es menor al de los demás materiales POP, pero su diseño y formato resultan provechosos, porque aún así la marca puede informar al cliente sobre datos de su interés, y al estar pegado sobre producto, ayuda a aumentar la intención de compra.
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema3/pc1-9.png', alt='')
   
@@ -625,7 +625,7 @@
                   .row.align-items-center.justify-content-center
                     .col-lg-6
                       .h4 Cuellos de botella
-                      p Instrumentos promocionales que acompañan a los envases como pro ejemplo las botellas o frascos (licores, gaseosas, mermeladas, salsas de tomate, cremas para la piel, etc.) y que son usados para dar información, destacar una promoción, mostrar un valor agregado del producto o informar sobre alguna novedad. Sus funciones son las de contener información adicional del producto como por ejemplo una promoción, recetas o formas de uso; llamar la atención en temporadas o fechas especiales (García, 2015).
+                      p Instrumentos promocionales que acompañan a los envases como por ejemplo las botellas o frascos (licores, gaseosas, mermeladas, salsas de tomate, cremas para la piel, etc.) y que son usados para dar información, destacar una promoción, mostrar un valor agregado del producto o informar sobre alguna novedad. Sus funciones son las de contener información adicional del producto como por ejemplo una promoción, recetas o formas de uso; llamar la atención en temporadas o fechas especiales (García, 2015).
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema3/pc1-24.png', alt='')
   
