@@ -173,14 +173,14 @@
       separador
       #t_1_3.titulo-segundo.mb-5
         h2 1.3 Promoción
-      p La promoción es un plan integral de marketing que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de marketing, puesto que su elaboración involucra la toma de decisiones sobre todas las variables del #[em mix] de marketing. Los objetivos de una promoción deben ser muy bien definidos y además concretos.  
+      p La promoción es un plan integral de #[em marketing] que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de #[em marketing], puesto que su elaboración involucra la toma de decisiones sobre todas las variables del #[em mix] de #[em marketing]. Los objetivos de una promoción deben ser muy bien definidos y además concretos.  
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Técnicas de promoción
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p.mb-4 Área del marketing donde se debe entregar una gran dosis de creatividad  para lograr mejores resultados. Entre las diferentes técnicas se pueden destacar las siguientes:
+      p.mb-4 Área del #[em marketing] donde se debe entregar una gran dosis de creatividad  para lograr mejores resultados. Entre las diferentes técnicas se pueden destacar las siguientes:
   
       .row.fondo1.align-items-center.p-3(data-aos="fade-down").mb-4
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -203,7 +203,7 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Programas de fidelización #[em focus costumer]
-                  p.mb-4 En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de marketing relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca. 
+                  p.mb-4 En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de #[em marketing] relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca. 
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly2-3.png")
               .row.justify-content-center.align-items-center.p-4
@@ -431,7 +431,7 @@
               h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Clasificación y tipología
               img.icon(src='@/assets/curso/temas/icon.svg') 
           p.mt-5 El  objetivo de un evento debe definir su tipología, mientras que su formato es el medio o canal utilizado para llevarlo a cabo.
-          p Por ejemplo, los eventos de motivación pueden realizarse mediante #[em networking], viajes de incentivos o convenciones. Los eventos de posicionamiento de marca pueden llevarse a cabo a través de acciones callejeras, marketing de guerrilla, #[em roadshows, happenings], marketing ambiental o eventos promocionales. Los eventos institucionales pueden utilizar formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas. Además, los eventos relacionales y co-participativos pueden organizarse mediante desayunos, almuerzos, #[em focus groups], cocreación, entre otros.
+          p Por ejemplo, los eventos de motivación pueden realizarse mediante #[em networking], viajes de incentivos o convenciones. Los eventos de posicionamiento de marca pueden llevarse a cabo a través de acciones callejeras, #[em marketing]  de guerrilla, #[em roadshows, happenings], #[em marketing] ambiental o eventos promocionales. Los eventos institucionales pueden utilizar formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas. Además, los eventos relacionales y co-participativos pueden organizarse mediante desayunos, almuerzos, #[em focus groups], cocreación, entre otros.
           p Así, se pueden explorar muchas más modalidades de eventos que pueden ser consideradas en las estrategias patrocinadas por una marca.
           p Pueden diferenciarse en dos grandes bloques: 
         .col-lg-4.col-md-6.col-6
@@ -452,7 +452,7 @@
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-1.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de marketing, que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
+              p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de #[em marketing], que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
         .py-3.py-md-4.px-3(titulo="Aniversarios de empresa")
           .row.justify-content-center
             .col-lg-3.col-md-5.col-5.mb-4
@@ -529,7 +529,7 @@
   
       separador
       #t_1_5.titulo-segundo.mb-4
-        h2 1.5 El stand
+        h2 1.5 El #[em stand]
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-6.col-md-12.col-sm-12
@@ -539,9 +539,9 @@
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de stand
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de #[em stand]
           img.icon(src='@/assets/curso/temas/icon.svg') 
-      p.mb-4 Lo positivo de los stands es que su diseño puede ser tan versátil como la creatividad de los diseñadores. A continuación, se presentan los tipos de stands:
+      p.mb-4 Lo positivo de los #[em stands] es que su diseño puede ser tan versátil como la creatividad de los diseñadores. A continuación, se presentan los tipos de #[em stands]:
   
       .row.fondo1.align-items-center.p-3(data-aos="fade-down").mb-4
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -552,25 +552,25 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
                   h4.mb-4 Sistema modular
-                  p.mb-4 Combina estructuras de aluminio con paneles plastificados. Son versátiles y cómodos para armar, pero no son los que más sugieren para lograr una diferencia a través de una propuesta original, como sí lo puede lograr el stand de diseño libre. Por lo general, tienen medidas pequeñas y se usan en ferias de libros o artesanía. 
+                  p.mb-4 Combina estructuras de aluminio con paneles plastificados. Son versátiles y cómodos para armar, pero no son los que más sugieren para lograr una diferencia a través de una propuesta original, como sí lo puede lograr el #[em stand] de diseño libre. Por lo general, tienen medidas pequeñas y se usan en ferias de libros o artesanía. 
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-1.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 Stand #[em custom]
-                  p.mb-4 Se fabrican en madera o materiales flexibles, permiten una total personalización porque tienen un diseño libre. Cuando se trata de mejorar un valor diferenciador y llamar la atención de los clientes se recomienda este tipo de stand. Es más costoso porque no es modular y porque posee una mayor envergadura, pero, por otro lado, permite diseñar diferentes ambientes, zonas de trabajo, de reunión o de entrega de información en el mismo stand. 
+                  h4.mb-4 #[em Stand custom]
+                  p.mb-4 Se fabrican en madera o materiales flexibles, permiten una total personalización porque tienen un diseño libre. Cuando se trata de mejorar un valor diferenciador y llamar la atención de los clientes se recomienda este tipo de #[em stand]. Es más costoso porque no es modular y porque posee una mayor envergadura, pero, por otro lado, permite diseñar diferentes ambientes, zonas de trabajo, de reunión o de entrega de información en el mismo #[em stand]. 
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-2.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 Stand portátil
+                  h4.mb-4 #[em Stand] portátil
                   p.mb-4 Son más rápidos de armar y transportar. Disponen de un soporte gráfico que tiene la imagen de la marca. A nivel comunicativo, sus funciones son más reducidas, pero por eso mismo no se necesitará de un presupuesto elevado. 
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-3.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 Stand creativo o temático
-                  p.mb-4 Se trata de los stands más evolucionados y demandan de mano de obra experta, porque su diseño y montaje necesita de mayor precisión, si se compara con un stand con sistema modular. Según sea el tema de evento o el contexto de la marca, se puede crear un diseño versátil y llamativo, como puede ser el diseño de una bodega o cava,  para promocionar vinos. Se debe tener en cuenta que su costo es superior.
+                  h4.mb-4 #[em Stand] creativo o temático
+                  p.mb-4 Se trata de los #[em stands] más evolucionados y demandan de mano de obra experta, porque su diseño y montaje necesita de mayor precisión, si se compara con un #[em stand] con sistema modular. Según sea el tema de evento o el contexto de la marca, se puede crear un diseño versátil y llamativo, como puede ser el diseño de una bodega o cava,  para promocionar vinos. Se debe tener en cuenta que su costo es superior.
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-4.png")
   

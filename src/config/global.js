@@ -61,7 +61,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: 'El stand',
+            titulo: 'El <i>stand</i>',
             hash: 't_1_5',
           },
         ],
@@ -265,7 +265,7 @@ export default {
     {
       termino: 'Omnicanalidad',
       significado:
-        'Estrategia de marketing y atención al cliente que integra diversos canales de comunicación (tanto tradicionales como digitales) para proporcionar una experiencia unificada y coherente.',
+        'Estrategia de <i>marketing</i> y atención al cliente que integra diversos canales de comunicación (tanto tradicionales como digitales) para proporcionar una experiencia unificada y coherente.',
     },
     {
       termino: 'PLV',
@@ -283,7 +283,7 @@ export default {
         'acciones publicitarias y de mercadeo que incentivan a los clientes a tomar una decisión de compra en corto plazo, a través de técnicas promocionales como rebajas en el precio de un producto o servicio, descuentos, ofertas, cupones o el tradicional 2 x 1, entre otras.',
     },
     {
-      termino: 'Stand',
+      termino: '<i>Stand<i>',
       significado:
         'mueble que ocupa un espacio, principalmente en el interior de una exposición o una feria, en la que una marca puede exponer los productos y servicios.',
     },
@@ -317,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Chávez, L. M. (2016). Marketing en productos y servicios. IDI Instituto de Investigación - Escuela Superior Politécnica de Chimborazo.',
+        'Chávez, L. M. (2016). <i>Marketing</i> en productos y servicios. IDI Instituto de Investigación - Escuela Superior Politécnica de Chimborazo.',
       link: '',
     },
     {
@@ -327,7 +327,7 @@ export default {
     },
     {
       referencia:
-        'Florido, M. (2021). Muestras Gratis: ¿Una estrategia de marketing efectiva?',
+        'Florido, M. (2021). Muestras Gratis: ¿Una estrategia de <i>marketing</i> efectiva?',
       link: 'https://www.marketingandweb.es/marketing/muestras-gratis/',
     },
     {
@@ -378,7 +378,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Zambrano, F. (2021). Marketing promoción.',
+      referencia: 'Zambrano, F. (2021). <i>Marketing</i> promoción.',
       link: 'https://es.calameo.com/books/006559089cc12d9b80dfb',
     },
   ],

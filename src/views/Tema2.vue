@@ -218,7 +218,7 @@
           p Silva. (2020), afirma que, en un mundo donde la transformación digital se ha acelerado, y con un mercado sellado por una competencia extrema, se hace vital que toda marca cuente con una estrategia comercial de ventas que se centre en la satisfacción de los clientes.
           p Si la marca desea suministrar la mejor experiencia a los clientes, requiere tener una estrategia comercial bien diseñada, la cual enlace con el consumidor y lo motive no solo a comprar, sino a formar parte de la “tribu” de marca, es decir, conjunto de personas que están identificados con un producto, compartiendo ciertos argumentos y teniendo nociones parecidas sobre la marca.
           .cajon.color-primario.p-4
-            p Hoy en día, en pleno siglo XXI, contar con una estrategia comercial es cuestión de supervivencia. Aproximadamente el 80 % de las compañías que no diseñan nuevas estrategias de marketing y ventas desaparecen del mercado. 
+            p Hoy en día, en pleno siglo XXI, contar con una estrategia comercial es cuestión de supervivencia. Aproximadamente el 80 % de las compañías que no diseñan nuevas estrategias de #[em marketing] y ventas desaparecen del mercado. 
   
       .row.justify-content-center.align-items-end.mb-5
         .col-lg-8.col-md-12.col-sm-12
@@ -282,7 +282,7 @@
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de estrategia comercial de ventas
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p.mb-4 Lo primero que se debe hacer es diferenciar qué es estrategia comercial de ventas y qué es estrategia de marketing, ya que no tienen el mismo fin. La estrategia de marketing se orienta en la generación de oportunidades en el mercado, mientras que la estrategia comercial de ventas se aprovecha de estas oportunidades para lograr la rentabilidad empresarial.
+      p.mb-4 Lo primero que se debe hacer es diferenciar qué es estrategia comercial de ventas y qué es estrategia de #[em marketing], ya que no tienen el mismo fin. La estrategia de #[em marketing] se orienta en la generación de oportunidades en el mercado, mientras que la estrategia comercial de ventas se aprovecha de estas oportunidades para lograr la rentabilidad empresarial.
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
@@ -1147,7 +1147,7 @@
             .col-lg-2.col-md-3.col-6
               img(src='@/assets/curso/temas/tema2/aco2-2.png', alt='Texto que describa la imagen')
             .col-lg-8.col-md-12.col-sm-12
-              p Es vital que en la creación del plan de degustación se tengan en cuenta las negociaciones necesarias con el establecimiento comercial para ejecutar la actividad de forma adecuada. Por ejemplo, la instalación de un stand o mueble degustador, su tamaño, si se requiere de tomacorriente, que esté cerca del producto en góndola, cuántas personas estarán presentes haciendo la presentación de la degustación, si se necesita refrigeración, si es necesario un espacio en el establecimiento para guardar materiales o productos, etc. 
+              p Es vital que en la creación del plan de degustación se tengan en cuenta las negociaciones necesarias con el establecimiento comercial para ejecutar la actividad de forma adecuada. Por ejemplo, la instalación de un #[em stand] o mueble degustador, su tamaño, si se requiere de tomacorriente, que esté cerca del producto en góndola, cuántas personas estarán presentes haciendo la presentación de la degustación, si se necesita refrigeración, si es necesario un espacio en el establecimiento para guardar materiales o productos, etc. 
           .row.justify-content-center.align-items-center(titulo="Personal")
             .col-lg-2.col-md-3.col-6
               img(src='@/assets/curso/temas/tema2/aco2-3.png', alt='Texto que describa la imagen')
@@ -1157,7 +1157,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-8
           .cajon.color-acento-botones.p-4.mb-4
-            p Se recomienda también considerar la posibilidad de rotar los stands o muebles degustadores entre tiendas, situación que va a requerir de una planeación apropiada y pertinente. Los establecimientos de autoservicio son los que más se eligen para realizar este tipo de actividades de promoción porque brindan las mayores ventajas a la marca en términos de ubicación, número de consumidores, facilidades internas, imagen y número de impactos o consumidores que degusten el producto (Universidad América Latina - UAL, 2021).
+            p Se recomienda también considerar la posibilidad de rotar los #[em stands] o muebles degustadores entre tiendas, situación que va a requerir de una planeación apropiada y pertinente. Los establecimientos de autoservicio son los que más se eligen para realizar este tipo de actividades de promoción porque brindan las mayores ventajas a la marca en términos de ubicación, número de consumidores, facilidades internas, imagen y número de impactos o consumidores que degusten el producto (Universidad América Latina - UAL, 2021).
   
   
   </template>
