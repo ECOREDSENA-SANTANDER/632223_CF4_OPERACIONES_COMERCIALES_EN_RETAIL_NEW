@@ -3,30 +3,264 @@
     BannerInterno(icono="far fa-question-circle" titulo="Actividad didáctica")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
   
-      .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-        .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-          .tarjeta.h-100.d-flex.align-items-center.p-4
-            figure
-              img(src="@/assets/actividad/completar.svg", alt="Texto que describa la imagen")
-        .col-12.col-md-8.col-lg-9
-          .titulo-segundo
-            h2 Conceptos de ventas en el formato comercial
-          p.mb-4 #[b Identificar la apropiación de los contenidos en la temática sobre ventas en el formato comercial. ] 
-          .tarjeta.actividad.p-3
-            .row.justify-content-around.align-items-center            
-              .col-sm.mb-3.mb-sm-0
-                p.fw-bold.mb-0 Completar espacios
-              .col-auto
-                a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
-                  span Realizar
-                  i.fas.fa-puzzle-piece
-                  
+      #Actividad                
+        <Actividad :cuestionario="cuestionario"/>
+  
   </template>
 
 <script>
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
-  name: 'Actividad',
+  name: 'ActividadDidactica',
+  components: {
+    Actividad,
+  },
+  data: () => ({
+    cuestionario: {
+      tema: 'Ventas en el formato comercial',
+      titulo: 'Cuestionario',
+      introduccion:
+        '<b> Objetivo:</b> Evaluar la comprensión y apropiación de los conceptos fundamentales sobre ventas en el formato comercial, como complemento para su formación académica.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
+      barajarPreguntas: false,
+      preguntas: [
+        {
+          id: 1,
+          texto:
+            'La calidad de un producto es un factor clave para su éxito; en cambio, la publicidad no genera ninguna diferencia en el momento de realizar las ventas.',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 2,
+          texto:
+            'Se puede afirmar que las ventas comerciales se fundamentan, principalmente, en el desarrollo de estrategias y acciones promocionales diseñadas por las empresas.',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 3,
+          texto:
+            'La demostración es una estrategia del vendedor para captar el interés del cliente, mostrando el producto y aclarando su utilidad. ',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 4,
+          texto:
+            'Una de las características de la publicidad en un punto de venta es que el tamaño de los avisos publicitarios debe ser proporcional al establecimiento comercial, tanto en dimensiones como en costos.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 5,
+          texto:
+            'La promoción no forma parte del plan integral de marketing, ya que se trata de una técnica aislada que ofrece resultados distintos.',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 6,
+          texto:
+            'Un buen evento promocional no solo transmite mensajes a los posibles compradores, también segmenta audiencias y genera emociones, transformando la información en una experiencia que refuerza los objetivos del evento. ',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 7,
+          texto:
+            'La venta directa es cuando el cliente ingresa al establecimiento y es atendido de manera personalizada por el vendedor.',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 8,
+          texto:
+            'El avance de la inteligencia artificial ha reducido la relevancia del sector servicios, llevando a las marcas de países desarrollados a disminuir su inversión por falta de competitividad.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 9,
+          texto:
+            'El término "bienes" abarca productos y servicios. Los productos son tangibles, como zapatos, hamburguesas y perfumes, mientras que los servicios son intangibles y se utilizan, como los bancarios, funerarios y de salud.',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 10,
+          texto:
+            'Las ventas por teléfono, o telemarketing, se utilizan principalmente en mercados de gran consumo y para el lanzamiento de nuevos productos o promociones especiales.',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad los conceptos de ventas en el formato comercial.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+      ],
+      mensaje_final_aprobado:
+        '¡Excelente trabajo! posee una buena comprensión sobre ventas en el formato comercial. ¡Siga explorando este fascinante mundo! ',
+      mensaje_final_reprobado:
+        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
+    },
+  }),
 }
 </script>
-
-<style lang="sass"></style>
