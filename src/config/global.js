@@ -352,8 +352,7 @@ export default {
       link: 'https://www.zendesk.com.mx/blog/estrategia-comercial/',
     },
     {
-      referencia:
-        'Universidad América Latina - UAL. (2021). Promoción de ventas.',
+      referencia: 'Universidad América Latina - UAL. (2021). Demostraciones.',
       link:
         'http://ual.dyndns.org/biblioteca/Promocion_de_Ventas/Pdf/Unidad_20.pdf',
     },
@@ -368,9 +367,9 @@ export default {
       link: 'https://www.lifeder.com/funciones-asesor-comercial/',
     },
     {
-      referencia: 'Wolters Kluwer N.V. (2021). Comunicación comercial.',
+      referencia: 'Wolters Kluwer N.V. (2025). Guías y listas de comprobación.',
       link:
-        'https://guiasjuridicas.wolterskluwer.es/Content/Documento.aspx?params=H4sIAAAAAAAEAMtMSbF1jTAAASMjc0sLtbLUouLM_DxbIwMDS0NDA1OQQGZapUt-ckhlQaptWmJOcSoA2UBwSDUAAAA=WKE',
+        'https://www.wolterskluwer.com/es-es/solutions/legal-software/content-suite/content-library',
     },
     {
       referencia:
