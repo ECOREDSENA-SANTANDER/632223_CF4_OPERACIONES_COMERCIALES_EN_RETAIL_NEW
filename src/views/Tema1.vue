@@ -324,7 +324,7 @@
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
                 span #[b a]
-              span.mb-0 Incrementar el tráfico en el sitio #[em web].
+              span.mb-0 Incrementar el tráfico en el sitio web.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
                 span #[b b]
@@ -370,7 +370,7 @@
             li 
               .lista-ol--cuadro__vineta.acento-contenido 
                 span #[b l]
-              span.mb-0 Posicionar  la marca en la #[em web], entre otras.
+              span.mb-0 Posicionar  la marca en la web, entre otras.
   
       .row.justify-content-center.align-items-center
         .col-lg-8.col-md-12.col-sm-12
@@ -464,7 +464,7 @@
             .col-lg-3.col-md-5.col-5.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-3.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de internet, como #[em blogs] y sitios #[em web]. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
+              p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de internet, como blogs y sitios web. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
         .py-3.py-md-4.px-3(titulo="Lanzamiento de productos")
           .row.justify-content-center
             .col-lg-3.col-md-5.col-5.mb-4

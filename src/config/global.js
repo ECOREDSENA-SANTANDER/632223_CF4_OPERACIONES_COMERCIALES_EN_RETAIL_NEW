@@ -225,7 +225,7 @@ export default {
     {
       termino: 'Canales',
       significado:
-        'Diferentes medios a través de los cuales la empresa se comunica y relaciona con sus clientes, como tiendas físicas, sitios <i>web</i>, aplicaciones móviles, redes sociales, entre otros.',
+        'Diferentes medios a través de los cuales la empresa se comunica y relaciona con sus clientes, como tiendas físicas, sitios web, aplicaciones móviles, redes sociales, entre otros.',
     },
     {
       termino: 'Conveniencia',

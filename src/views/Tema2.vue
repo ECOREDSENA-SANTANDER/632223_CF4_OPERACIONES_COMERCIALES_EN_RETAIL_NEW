@@ -340,7 +340,7 @@
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.col-md-12.col-sm-12
-          p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, #[em blog], sitio #[em web], etc.), son vitales para las empresas contemporáneas. 
+          p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, blog, sitio web, etc.), son vitales para las empresas contemporáneas. 
           p Por su lado, la estrategia comercial #[em offline] completa todas las acciones tradicionales de ventas desarrolladas a lo largo de la historia. Utiliza canales distintos a internet, pero eso no quiere decir que sean incompatibles.
           p Son muchas las marcas que de manera exitosa unen ambos tipos de estrategia (#[em online] y #[em offline]), dando como resultado una decisión inteligente porque de esta manera se logra el diseño de una estrategia omnicanal que en la actualidad es de amplia aceptación.  A continuación, se expondrán los siguientes pasos para el desarrollo de una estrategia comercial efectiva.      
         .col-lg-4.col-md-6.col-6
@@ -515,7 +515,7 @@
           .row.justify-content-center.align-items-center(titulo="Ventas electrónicas")
             .col-md-7
               p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
-              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios #[em webs] y hasta el WhatsApp sirven de apoyo.
+              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el WhatsApp sirven de apoyo.
             .col-md-4.mb-4.mb-md-0
               img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas por televisión")

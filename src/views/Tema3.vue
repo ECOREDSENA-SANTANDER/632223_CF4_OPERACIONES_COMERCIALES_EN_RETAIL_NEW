@@ -94,7 +94,7 @@
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Canales y tipos de contacto
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p Canal o medio de contacto es la ruta por la que un cliente interesado en una empresa puede entrar en contacto con ella. Algunos de ellos permiten un contacto bidireccional con el cliente utilizando medios como: redes sociales, #[em chat], #[em blog], teléfono, etc. Otros no los utilizan como, por ejemplo, los medios masivos: televisión, prensa, revistas, etc. 
+      p Canal o medio de contacto es la ruta por la que un cliente interesado en una empresa puede entrar en contacto con ella. Algunos de ellos permiten un contacto bidireccional con el cliente utilizando medios como: redes sociales, chat, blog, teléfono, etc. Otros no los utilizan como, por ejemplo, los medios masivos: televisión, prensa, revistas, etc. 
       p.mb-4 En este apartado de canales y tipos de contacto, se refiere a aquellos medios en los que la empresa le da la oportunidad al cliente de tener una conversación o una interacción. Así entonces, las empresas en la actualidad eligen preferiblemente diferentes canales, en los que pueda existir ese contacto bidireccional con sus clientes, así:
   
       .row.justify-content-center.align-items-center
@@ -112,7 +112,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-2.png', alt='')
             .row.align-items-center.justify-content-center(numero="3" titulo= "Formulario de contacto")
               .col-md-10.col-lg-7.col-sm-12
-                p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poderles ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio #[em web], y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
+                p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poderles ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio web, y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
               .col-md-2.col-lg-4.col-4
                 img(src='@/assets/curso/temas/tema3/ps1-3.png', alt='')
             .row.align-items-center.justify-content-center(numero="4" titulo= "Redes sociales")
@@ -122,7 +122,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-4.png', alt='')
             .row.align-items-center.justify-content-center(numero="5" titulo= "<i>Chatbot</i>")
               .col-md-10.col-lg-7.col-sm-12
-                p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo #[em chat] puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
+                p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
               .col-md-2.col-lg-4.col-4
                 img(src='@/assets/curso/temas/tema3/ps1-5.png', alt='')
             .row.align-items-center.justify-content-center(numero="6" titulo= "WhatsApp")
@@ -317,7 +317,7 @@
                     .row.mt-5.mb-3
                     .col-lg-6.mt-5.bgblanco
                       h4.mt-2.ps-2 Plantillas gratuitas Wordpress y Wix
-                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios #[em web] y #[em blogs], llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc). El cliente puede elegir una plantilla para su sitio #[em web], probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio #[em web] o #[em blog].
+                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios web y blogs, llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc). El cliente puede elegir una plantilla para su sitio web, probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio web o blog.
             .row.mt-5
   
       p.mb-4.mt-4 La estrategia consiste entonces en que las empresas entreguen muestras gratis de sus productos con la finalidad de fidelizar los clientes reales y habituales o de alcanzar clientes potenciales que se interesen por lo que la empresa ofrece. Cuando el cliente prueba un producto, sea cual sea, tiene más posibilidades de terminar comprándolo, siempre y cuando le haya gustado.
