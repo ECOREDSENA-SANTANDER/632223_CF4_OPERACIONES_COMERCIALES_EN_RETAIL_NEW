@@ -211,7 +211,7 @@ export default {
     },
     {
       tema: 'Omnicanalidad',
-      referencia: 'Navarro, E. (2016). E-commerce: Qué es la omnicanalidad',
+      referencia: 'Navarro, E. (2016). E-COMMERCE: QUE ES LA OMNICANALIDAD',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=IpPxFTJrZps',
     },
